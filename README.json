@@ -14,7 +14,7 @@
             "last_commit": "2025-10-12T18:06:13Z",
             "owner": "h4cc",
             "repo": "awesome-elixir",
-            "stars": 13157
+            "stars": 13158
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2023-12-26T15:46:02Z",
             "owner": "getify",
             "repo": "Functional-Light-JS",
-            "stars": 16747
+            "stars": 16743
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184652
+            "stars": 184653
           }
         },
         {
@@ -791,7 +791,7 @@
             "last_commit": "2024-06-13T16:23:08Z",
             "owner": "andrewplummer",
             "repo": "Sugar",
-            "stars": 4505
+            "stars": 4504
           }
         },
         {
@@ -2305,7 +2305,7 @@
             "last_commit": "2026-08-05T21:05:13Z",
             "owner": "LuxLang",
             "repo": "lux",
-            "stars": 1741
+            "stars": 1740
           }
         },
         {
@@ -2795,7 +2795,7 @@
             "last_commit": "2019-11-21T10:29:40Z",
             "owner": "typelift",
             "repo": "Swiftx",
-            "stars": 220
+            "stars": 221
           }
         },
         {
@@ -3074,7 +3074,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-12T16:33:04Z",
+            "last_commit": "2026-08-13T08:59:15Z",
             "owner": "diku-dk",
             "repo": "futhark",
             "stars": 2789
@@ -3166,7 +3166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:00:02.089Z",
+    "last_updated": "2026-08-13T09:33:38.217Z",
     "original_repository": "xgrommx/awesome-functional-programming",
     "original_repository_sha": "319c4e26c9bbc776d1e72e12431ffc8574a39acf",
     "enhanced_repository": "enhansome/enhansome-functional-programming",

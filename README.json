@@ -14,7 +14,7 @@
             "last_commit": "2025-10-12T18:06:13Z",
             "owner": "h4cc",
             "repo": "awesome-elixir",
-            "stars": 13158
+            "stars": 13160
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-06T21:10:02Z",
             "owner": "razum2um",
             "repo": "awesome-clojure",
-            "stars": 2838
+            "stars": 2839
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2024-09-17T06:18:40Z",
             "owner": "MostlyAdequate",
             "repo": "mostly-adequate-guide",
-            "stars": 23833
+            "stars": 23832
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2023-12-26T15:46:02Z",
             "owner": "getify",
             "repo": "Functional-Light-JS",
-            "stars": 16743
+            "stars": 16742
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184653
+            "stars": 184665
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2021-01-11T13:56:03Z",
             "owner": "sdiehl",
             "repo": "write-you-a-haskell",
-            "stars": 3485
+            "stars": 3486
           }
         },
         {
@@ -404,7 +404,7 @@
             "last_commit": "2017-04-19T22:14:33Z",
             "owner": "viskell",
             "repo": "viskell",
-            "stars": 680
+            "stars": 679
           }
         },
         {
@@ -749,7 +749,7 @@
             "last_commit": "2026-08-07T17:03:35Z",
             "owner": "caolan",
             "repo": "async",
-            "stars": 28142
+            "stars": 28143
           }
         },
         {
@@ -763,7 +763,7 @@
             "last_commit": "2024-11-10T21:50:53Z",
             "owner": "fantasyland",
             "repo": "fantasy-land",
-            "stars": 10241
+            "stars": 10242
           }
         },
         {
@@ -2288,10 +2288,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T02:35:26Z",
+            "last_commit": "2026-08-14T02:27:37Z",
             "owner": "jank-lang",
             "repo": "jank",
-            "stars": 3310
+            "stars": 3311
           }
         },
         {
@@ -2629,7 +2629,7 @@
             "last_commit": "2026-07-29T08:30:02Z",
             "owner": "louthy",
             "repo": "language-ext",
-            "stars": 7078
+            "stars": 7079
           }
         },
         {
@@ -3074,10 +3074,10 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-13T08:59:15Z",
+            "last_commit": "2026-08-13T11:09:22Z",
             "owner": "diku-dk",
             "repo": "futhark",
-            "stars": 2789
+            "stars": 2790
           }
         },
         {
@@ -3102,7 +3102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-10T10:15:38Z",
+            "last_commit": "2026-08-13T11:02:12Z",
             "owner": "reflex-frp",
             "repo": "reflex",
             "stars": 1115
@@ -3130,7 +3130,7 @@
             "last_commit": "2026-08-10T14:06:57Z",
             "owner": "koka-lang",
             "repo": "koka",
-            "stars": 4017
+            "stars": 4018
           }
         },
         {
@@ -3141,10 +3141,10 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-10T16:54:57Z",
+            "last_commit": "2026-08-13T15:11:51Z",
             "owner": "agda",
             "repo": "agda",
-            "stars": 2912
+            "stars": 2913
           }
         },
         {
@@ -3166,7 +3166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:33:38.217Z",
+    "last_updated": "2026-08-14T09:20:00.126Z",
     "original_repository": "xgrommx/awesome-functional-programming",
     "original_repository_sha": "319c4e26c9bbc776d1e72e12431ffc8574a39acf",
     "enhanced_repository": "enhansome/enhansome-functional-programming",

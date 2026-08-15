@@ -56,7 +56,7 @@
             "last_commit": "2026-08-03T08:39:39Z",
             "owner": "krispo",
             "repo": "awesome-haskell",
-            "stars": 3287
+            "stars": 3288
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-06-23T05:10:14Z",
             "owner": "sfermigier",
             "repo": "awesome-functional-python",
-            "stars": 2549
+            "stars": 2551
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2024-09-17T06:18:40Z",
             "owner": "MostlyAdequate",
             "repo": "mostly-adequate-guide",
-            "stars": 23832
+            "stars": 23831
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184665
+            "stars": 184667
           }
         },
         {
@@ -236,7 +236,7 @@
             "last_commit": "2023-10-17T12:04:55Z",
             "owner": "hemanth",
             "repo": "functional-programming-jargon",
-            "stars": 18646
+            "stars": 18645
           }
         },
         {
@@ -278,7 +278,7 @@
             "last_commit": "2024-12-11T18:19:58Z",
             "owner": "fpinscala",
             "repo": "fpinscala",
-            "stars": 5847
+            "stars": 5850
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-08-03T08:39:39Z",
             "owner": "krispo",
             "repo": "awesome-haskell",
-            "stars": 3287
+            "stars": 3288
           }
         },
         {
@@ -880,20 +880,6 @@
         },
         {
           "node_type": "item",
-          "title": "transducers-js - A high performance Transducers implementation for JavaScript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-06-03T21:41:12Z",
-            "owner": "cognitect-labs",
-            "repo": "transducers-js",
-            "stars": 1602
-          }
-        },
-        {
-          "node_type": "item",
           "title": "purify - Functional programming library for TypeScript focusing on ADTs",
           "description": null,
           "children": [],
@@ -903,6 +889,20 @@
             "last_commit": "2025-12-16T09:02:32Z",
             "owner": "gigobyte",
             "repo": "purify",
+            "stars": 1603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transducers-js - A high performance Transducers implementation for JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-06-03T21:41:12Z",
+            "owner": "cognitect-labs",
+            "repo": "transducers-js",
             "stars": 1602
           }
         },
@@ -1029,7 +1029,7 @@
             "last_commit": "2019-10-29T13:34:03Z",
             "owner": "fantasyland",
             "repo": "static-land",
-            "stars": 775
+            "stars": 776
           }
         },
         {
@@ -1477,7 +1477,7 @@
             "last_commit": "2016-10-22T16:13:52Z",
             "owner": "fantasyland",
             "repo": "fantasy-birds",
-            "stars": 93
+            "stars": 94
           }
         },
         {
@@ -2201,7 +2201,7 @@
             "last_commit": "2026-07-11T08:33:45Z",
             "owner": "Frege",
             "repo": "frege",
-            "stars": 3704
+            "stars": 3705
           }
         },
         {
@@ -2288,10 +2288,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T02:27:37Z",
+            "last_commit": "2026-08-14T19:10:36Z",
             "owner": "jank-lang",
             "repo": "jank",
-            "stars": 3311
+            "stars": 3312
           }
         },
         {
@@ -2305,7 +2305,7 @@
             "last_commit": "2026-08-05T21:05:13Z",
             "owner": "LuxLang",
             "repo": "lux",
-            "stars": 1740
+            "stars": 1739
           }
         },
         {
@@ -3074,10 +3074,10 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-13T11:09:22Z",
+            "last_commit": "2026-08-14T13:50:53Z",
             "owner": "diku-dk",
             "repo": "futhark",
-            "stars": 2790
+            "stars": 2792
           }
         },
         {
@@ -3091,7 +3091,7 @@
             "last_commit": "2022-07-31T17:14:19Z",
             "owner": "typelead",
             "repo": "eta",
-            "stars": 2633
+            "stars": 2632
           }
         },
         {
@@ -3102,7 +3102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-13T11:02:12Z",
+            "last_commit": "2026-08-14T22:12:24Z",
             "owner": "reflex-frp",
             "repo": "reflex",
             "stars": 1115
@@ -3127,10 +3127,10 @@
           "repo_info": {
             "archived": false,
             "language": "Koka",
-            "last_commit": "2026-08-10T14:06:57Z",
+            "last_commit": "2026-08-15T01:21:39Z",
             "owner": "koka-lang",
             "repo": "koka",
-            "stars": 4018
+            "stars": 4021
           }
         },
         {
@@ -3141,7 +3141,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-13T15:11:51Z",
+            "last_commit": "2026-08-14T17:59:06Z",
             "owner": "agda",
             "repo": "agda",
             "stars": 2913
@@ -3166,7 +3166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:20:00.126Z",
+    "last_updated": "2026-08-15T08:44:18.011Z",
     "original_repository": "xgrommx/awesome-functional-programming",
     "original_repository_sha": "319c4e26c9bbc776d1e72e12431ffc8574a39acf",
     "enhanced_repository": "enhansome/enhansome-functional-programming",

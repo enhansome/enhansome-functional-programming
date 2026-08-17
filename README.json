@@ -28,7 +28,7 @@
             "last_commit": "2024-09-20T08:21:10Z",
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9233
+            "stars": 9234
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-21T04:46:24Z",
             "owner": "sporto",
             "repo": "awesome-elm",
-            "stars": 3686
+            "stars": 3685
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-03T08:39:39Z",
             "owner": "krispo",
             "repo": "awesome-haskell",
-            "stars": 3288
+            "stars": 3284
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-06-23T05:10:14Z",
             "owner": "sfermigier",
             "repo": "awesome-functional-python",
-            "stars": 2551
+            "stars": 2552
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2023-12-26T15:46:02Z",
             "owner": "getify",
             "repo": "Functional-Light-JS",
-            "stars": 16741
+            "stars": 16739
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184669
+            "stars": 184672
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2026-01-15T19:55:47Z",
             "owner": "stoeffel",
             "repo": "awesome-fp-js",
-            "stars": 6037
+            "stars": 6036
           }
         },
         {
@@ -278,7 +278,7 @@
             "last_commit": "2024-12-11T18:19:58Z",
             "owner": "fpinscala",
             "repo": "fpinscala",
-            "stars": 5850
+            "stars": 5849
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2021-01-11T13:56:03Z",
             "owner": "sdiehl",
             "repo": "write-you-a-haskell",
-            "stars": 3486
+            "stars": 3481
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-08-03T08:39:39Z",
             "owner": "krispo",
             "repo": "awesome-haskell",
-            "stars": 3288
+            "stars": 3284
           }
         },
         {
@@ -749,7 +749,7 @@
             "last_commit": "2026-08-07T17:03:35Z",
             "owner": "caolan",
             "repo": "async",
-            "stars": 28143
+            "stars": 28140
           }
         },
         {
@@ -763,7 +763,7 @@
             "last_commit": "2024-11-10T21:50:53Z",
             "owner": "fantasyland",
             "repo": "fantasy-land",
-            "stars": 10242
+            "stars": 10240
           }
         },
         {
@@ -847,7 +847,7 @@
             "last_commit": "2022-04-28T12:48:29Z",
             "owner": "yortus",
             "repo": "asyncawait",
-            "stars": 1899
+            "stars": 1897
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2024-05-19T10:03:34Z",
             "owner": "mihaifm",
             "repo": "linq",
-            "stars": 1731
+            "stars": 1732
           }
         },
         {
@@ -2201,7 +2201,7 @@
             "last_commit": "2026-07-11T08:33:45Z",
             "owner": "Frege",
             "repo": "frege",
-            "stars": 3705
+            "stars": 3706
           }
         },
         {
@@ -2288,7 +2288,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T01:41:32Z",
+            "last_commit": "2026-08-16T19:47:58Z",
             "owner": "jank-lang",
             "repo": "jank",
             "stars": 3315
@@ -2874,7 +2874,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-19T01:47:04Z",
+            "last_commit": "2026-08-17T01:46:47Z",
             "owner": "Suor",
             "repo": "funcy",
             "stars": 3509
@@ -3077,7 +3077,7 @@
             "last_commit": "2026-08-14T13:50:53Z",
             "owner": "diku-dk",
             "repo": "futhark",
-            "stars": 2793
+            "stars": 2792
           }
         },
         {
@@ -3091,7 +3091,7 @@
             "last_commit": "2022-07-31T17:14:19Z",
             "owner": "typelead",
             "repo": "eta",
-            "stars": 2632
+            "stars": 2633
           }
         },
         {
@@ -3130,7 +3130,7 @@
             "last_commit": "2026-08-15T16:25:40Z",
             "owner": "koka-lang",
             "repo": "koka",
-            "stars": 4025
+            "stars": 4024
           }
         },
         {
@@ -3166,7 +3166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:46:24.562Z",
+    "last_updated": "2026-08-17T09:00:16.564Z",
     "original_repository": "xgrommx/awesome-functional-programming",
     "original_repository_sha": "319c4e26c9bbc776d1e72e12431ffc8574a39acf",
     "enhanced_repository": "enhansome/enhansome-functional-programming",

@@ -222,7 +222,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184672
+            "stars": 184702
           }
         },
         {
@@ -236,7 +236,7 @@
             "last_commit": "2023-10-17T12:04:55Z",
             "owner": "hemanth",
             "repo": "functional-programming-jargon",
-            "stars": 18644
+            "stars": 18645
           }
         },
         {
@@ -749,7 +749,7 @@
             "last_commit": "2026-08-07T17:03:35Z",
             "owner": "caolan",
             "repo": "async",
-            "stars": 28140
+            "stars": 28139
           }
         },
         {
@@ -833,7 +833,7 @@
             "last_commit": "2022-07-20T03:14:27Z",
             "owner": "js-csp",
             "repo": "js-csp",
-            "stars": 2320
+            "stars": 2321
           }
         },
         {
@@ -1099,7 +1099,7 @@
             "last_commit": "2018-11-14T16:45:04Z",
             "owner": "babel",
             "repo": "kneden",
-            "stars": 513
+            "stars": 512
           }
         },
         {
@@ -1706,6 +1706,20 @@
         },
         {
           "node_type": "item",
+          "title": "asyncbox - A collection of ES7 async/await utilities",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T19:53:00Z",
+            "owner": "appium",
+            "repo": "asyncbox",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
           "title": "monadic - Do-notation and Monads for JavaScript",
           "description": null,
           "children": [],
@@ -1716,20 +1730,6 @@
             "owner": "spring-attic",
             "repo": "monadic",
             "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "asyncbox - A collection of ES7 async/await utilities",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-30T19:53:00Z",
-            "owner": "appium",
-            "repo": "asyncbox",
-            "stars": 26
           }
         },
         {
@@ -2201,7 +2201,7 @@
             "last_commit": "2026-07-11T08:33:45Z",
             "owner": "Frege",
             "repo": "frege",
-            "stars": 3706
+            "stars": 3709
           }
         },
         {
@@ -2215,7 +2215,7 @@
             "last_commit": "2023-04-25T16:17:13Z",
             "owner": "functionaljava",
             "repo": "functionaljava",
-            "stars": 1619
+            "stars": 1620
           }
         },
         {
@@ -2288,10 +2288,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T19:47:58Z",
+            "last_commit": "2026-08-17T21:44:01Z",
             "owner": "jank-lang",
             "repo": "jank",
-            "stars": 3315
+            "stars": 3314
           }
         },
         {
@@ -2336,7 +2336,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-10T22:30:51Z",
+            "last_commit": "2026-08-17T22:09:41Z",
             "owner": "scalaz",
             "repo": "scalaz",
             "stars": 4673
@@ -2629,7 +2629,7 @@
             "last_commit": "2026-07-29T08:30:02Z",
             "owner": "louthy",
             "repo": "language-ext",
-            "stars": 7079
+            "stars": 7082
           }
         },
         {
@@ -3077,7 +3077,7 @@
             "last_commit": "2026-08-14T13:50:53Z",
             "owner": "diku-dk",
             "repo": "futhark",
-            "stars": 2792
+            "stars": 2793
           }
         },
         {
@@ -3130,7 +3130,7 @@
             "last_commit": "2026-08-15T16:25:40Z",
             "owner": "koka-lang",
             "repo": "koka",
-            "stars": 4024
+            "stars": 4028
           }
         },
         {
@@ -3144,7 +3144,7 @@
             "last_commit": "2026-08-14T17:59:06Z",
             "owner": "agda",
             "repo": "agda",
-            "stars": 2914
+            "stars": 2916
           }
         },
         {
@@ -3166,7 +3166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:00:16.564Z",
+    "last_updated": "2026-08-18T08:52:45.651Z",
     "original_repository": "xgrommx/awesome-functional-programming",
     "original_repository_sha": "319c4e26c9bbc776d1e72e12431ffc8574a39acf",
     "enhanced_repository": "enhansome/enhansome-functional-programming",

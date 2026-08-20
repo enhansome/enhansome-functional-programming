@@ -15,7 +15,7 @@
             "last_commit": "2025-10-12T18:06:13Z",
             "owner": "h4cc",
             "repo": "awesome-elixir",
-            "stars": 13160
+            "stars": 13161
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-06T21:10:02Z",
             "owner": "razum2um",
             "repo": "awesome-clojure",
-            "stars": 2840
+            "stars": 2841
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-23T05:10:14Z",
             "owner": "sfermigier",
             "repo": "awesome-functional-python",
-            "stars": 2552
+            "stars": 2553
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-03-21T15:21:56Z",
             "owner": "fsprojects",
             "repo": "awesome-fsharp",
-            "stars": 1430
+            "stars": 1432
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2024-09-17T06:18:40Z",
             "owner": "MostlyAdequate",
             "repo": "mostly-adequate-guide",
-            "stars": 23831
+            "stars": 23830
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2023-12-26T15:46:02Z",
             "owner": "getify",
             "repo": "Functional-Light-JS",
-            "stars": 16740
+            "stars": 16738
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184711
+            "stars": 184715
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2023-10-17T12:04:55Z",
             "owner": "hemanth",
             "repo": "functional-programming-jargon",
-            "stars": 18645
+            "stars": 18644
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-01-15T19:55:47Z",
             "owner": "stoeffel",
             "repo": "awesome-fp-js",
-            "stars": 6036
+            "stars": 6035
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2024-12-11T18:19:58Z",
             "owner": "fpinscala",
             "repo": "fpinscala",
-            "stars": 5849
+            "stars": 5848
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2021-01-11T13:56:03Z",
             "owner": "sdiehl",
             "repo": "write-you-a-haskell",
-            "stars": 3481
+            "stars": 3482
           }
         },
         {
@@ -785,7 +785,7 @@
                 "last_commit": "2026-08-07T17:03:35Z",
                 "owner": "caolan",
                 "repo": "async",
-                "stars": 28138
+                "stars": 28137
               }
             },
             {
@@ -800,7 +800,7 @@
                 "last_commit": "2024-11-10T21:50:53Z",
                 "owner": "fantasyland",
                 "repo": "fantasy-land",
-                "stars": 10240
+                "stars": 10239
               }
             },
             {
@@ -2431,10 +2431,10 @@
                 "archived": false,
                 "id": 21428070,
                 "language": "C++",
-                "last_commit": "2026-08-19T01:07:45Z",
+                "last_commit": "2026-08-20T00:44:14Z",
                 "owner": "jank-lang",
                 "repo": "jank",
-                "stars": 3314
+                "stars": 3316
               }
             },
             {
@@ -2446,7 +2446,7 @@
                 "archived": false,
                 "id": 35055585,
                 "language": "Emacs Lisp",
-                "last_commit": "2026-08-05T21:05:13Z",
+                "last_commit": "2026-08-20T05:03:04Z",
                 "owner": "LuxLang",
                 "repo": "lux",
                 "stars": 1740
@@ -2498,7 +2498,7 @@
                 "archived": false,
                 "id": 474633,
                 "language": "Scala",
-                "last_commit": "2026-08-17T22:09:41Z",
+                "last_commit": "2026-08-20T06:23:40Z",
                 "owner": "scalaz",
                 "repo": "scalaz",
                 "stars": 4673
@@ -2571,7 +2571,7 @@
             "archived": false,
             "id": 2888818,
             "language": "Scala",
-            "last_commit": "2026-08-18T12:13:20Z",
+            "last_commit": "2026-08-20T08:51:28Z",
             "owner": "scala",
             "repo": "scala",
             "stars": 14566
@@ -2632,10 +2632,10 @@
             "archived": false,
             "id": 3432266,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T12:35:14Z",
+            "last_commit": "2026-08-20T08:55:56Z",
             "owner": "JetBrains",
             "repo": "kotlin",
-            "stars": 53352
+            "stars": 53354
           },
           "title": "Kotlin"
         },
@@ -2653,7 +2653,7 @@
                 "last_commit": "2026-08-12T08:52:07Z",
                 "owner": "fsprojects",
                 "repo": "FSharpPlus",
-                "stars": 939
+                "stars": 940
               }
             },
             {
@@ -2904,10 +2904,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-19T10:22:35Z",
+            "last_commit": "2026-08-20T07:52:43Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20614
+            "stars": 20615
           },
           "title": "C#"
         },
@@ -3264,7 +3264,7 @@
             "archived": false,
             "id": 1903522,
             "language": "C",
-            "last_commit": "2026-08-19T12:22:25Z",
+            "last_commit": "2026-08-20T08:34:02Z",
             "owner": "php",
             "repo": "php-src",
             "stars": 40297
@@ -3279,10 +3279,10 @@
             "archived": false,
             "id": 724712,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:10:01Z",
+            "last_commit": "2026-08-20T08:23:20Z",
             "owner": "rust-lang",
             "repo": "rust",
-            "stars": 115606
+            "stars": 115615
           },
           "title": "Rust"
         },
@@ -3325,7 +3325,7 @@
             "archived": false,
             "id": 1644196,
             "language": "Julia",
-            "last_commit": "2026-08-19T12:09:56Z",
+            "last_commit": "2026-08-20T08:35:47Z",
             "owner": "JuliaLang",
             "repo": "julia",
             "stars": 49018
@@ -3340,10 +3340,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-19T00:24:25Z",
+            "last_commit": "2026-08-20T02:32:22Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 135901
+            "stars": 135916
           },
           "title": "Go"
         },
@@ -3358,7 +3358,7 @@
                 "archived": false,
                 "id": 7960131,
                 "language": "Haskell",
-                "last_commit": "2026-08-19T12:13:22Z",
+                "last_commit": "2026-08-19T13:22:52Z",
                 "owner": "diku-dk",
                 "repo": "futhark",
                 "stars": 2792
@@ -3407,7 +3407,7 @@
             "archived": false,
             "id": 1234714,
             "language": "Elixir",
-            "last_commit": "2026-08-18T15:36:50Z",
+            "last_commit": "2026-08-19T17:27:12Z",
             "owner": "elixir-lang",
             "repo": "elixir",
             "stars": 26600
@@ -3432,7 +3432,7 @@
             "last_commit": "2026-08-15T16:25:40Z",
             "owner": "koka-lang",
             "repo": "koka",
-            "stars": 4032
+            "stars": 4035
           }
         },
         {
@@ -3444,7 +3444,7 @@
             "archived": false,
             "id": 40411471,
             "language": "Haskell",
-            "last_commit": "2026-08-19T12:08:43Z",
+            "last_commit": "2026-08-19T23:11:25Z",
             "owner": "agda",
             "repo": "agda",
             "stars": 2916
@@ -3470,7 +3470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:35:33.431Z",
+    "last_updated": "2026-08-20T08:56:26.311Z",
     "original_repository": "xgrommx/awesome-functional-programming",
     "original_repository_id": 46194363,
     "original_repository_sha": "319c4e26c9bbc776d1e72e12431ffc8574a39acf",

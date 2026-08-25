@@ -171,7 +171,7 @@
             "last_commit": "2024-09-17T06:18:40Z",
             "owner": "MostlyAdequate",
             "repo": "mostly-adequate-guide",
-            "stars": 23824
+            "stars": 23823
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184721
+            "stars": 184724
           }
         },
         {
@@ -785,7 +785,7 @@
                 "last_commit": "2026-08-07T17:03:35Z",
                 "owner": "caolan",
                 "repo": "async",
-                "stars": 28139
+                "stars": 28138
               }
             },
             {
@@ -2508,7 +2508,7 @@
             "last_commit": "2026-08-10T01:25:46Z",
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9388
+            "stars": 9389
           },
           "title": "ClojureScript"
         },
@@ -2657,10 +2657,10 @@
             "archived": false,
             "id": 3432266,
             "language": "Kotlin",
-            "last_commit": "2026-08-25T02:08:04Z",
+            "last_commit": "2026-08-25T08:52:57Z",
             "owner": "JetBrains",
             "repo": "kotlin",
-            "stars": 53355
+            "stars": 53353
           },
           "title": "Kotlin"
         },
@@ -2932,7 +2932,7 @@
             "last_commit": "2026-08-25T03:30:05Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20622
+            "stars": 20624
           },
           "title": "C#"
         },
@@ -3289,7 +3289,7 @@
             "archived": false,
             "id": 1903522,
             "language": "C",
-            "last_commit": "2026-08-24T16:54:20Z",
+            "last_commit": "2026-08-25T08:20:33Z",
             "owner": "php",
             "repo": "php-src",
             "stars": 40315
@@ -3320,10 +3320,10 @@
             "archived": false,
             "id": 724712,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:05:59Z",
+            "last_commit": "2026-08-25T07:18:08Z",
             "owner": "rust-lang",
             "repo": "rust",
-            "stars": 116186
+            "stars": 116193
           },
           "title": "Rust"
         },
@@ -3369,7 +3369,7 @@
             "last_commit": "2026-08-24T22:48:58Z",
             "owner": "JuliaLang",
             "repo": "julia",
-            "stars": 49031
+            "stars": 49033
           },
           "title": "Julia"
         },
@@ -3387,7 +3387,7 @@
                 "last_commit": "2026-08-23T04:19:01Z",
                 "owner": "ahmetb",
                 "repo": "go-linq",
-                "stars": 3752
+                "stars": 3754
               }
             }
           ],
@@ -3397,10 +3397,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-25T00:53:42Z",
+            "last_commit": "2026-08-25T07:07:58Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136442
+            "stars": 136449
           },
           "title": "Go"
         },
@@ -3593,7 +3593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:50:39.356Z",
+    "last_updated": "2026-08-25T08:59:25.175Z",
     "original_repository": "xgrommx/awesome-functional-programming",
     "original_repository_id": 46194363,
     "original_repository_sha": "319c4e26c9bbc776d1e72e12431ffc8574a39acf",

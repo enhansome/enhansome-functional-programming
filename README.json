@@ -135,7 +135,7 @@
             "last_commit": "2026-08-12T00:02:42Z",
             "owner": "uhub",
             "repo": "awesome-haskell",
-            "stars": 467
+            "stars": 466
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184741
+            "stars": 184743
           }
         },
         {
@@ -2337,7 +2337,7 @@
                 "last_commit": "2026-07-11T08:33:45Z",
                 "owner": "Frege",
                 "repo": "frege",
-                "stars": 3713
+                "stars": 3712
               }
             },
             {
@@ -2397,7 +2397,7 @@
                 "last_commit": "2025-12-18T19:59:01Z",
                 "owner": "mth",
                 "repo": "yeti",
-                "stars": 254
+                "stars": 253
               }
             },
             {
@@ -2431,7 +2431,7 @@
                 "archived": false,
                 "id": 21428070,
                 "language": "C++",
-                "last_commit": "2026-08-27T02:33:51Z",
+                "last_commit": "2026-08-27T17:27:17Z",
                 "owner": "jank-lang",
                 "repo": "jank",
                 "stars": 3319
@@ -2449,7 +2449,7 @@
                 "last_commit": "2026-08-26T05:38:52Z",
                 "owner": "LuxLang",
                 "repo": "lux",
-                "stars": 1741
+                "stars": 1740
               }
             },
             {
@@ -2477,7 +2477,7 @@
             "last_commit": "2026-08-25T19:26:35Z",
             "owner": "clojure",
             "repo": "clojure",
-            "stars": 10955
+            "stars": 10956
           },
           "title": "Clojure/ClojureScript"
         },
@@ -2657,10 +2657,10 @@
             "archived": false,
             "id": 3432266,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T11:38:35Z",
+            "last_commit": "2026-08-27T19:02:16Z",
             "owner": "JetBrains",
             "repo": "kotlin",
-            "stars": 53357
+            "stars": 53356
           },
           "title": "Kotlin"
         },
@@ -2929,10 +2929,10 @@
             "archived": false,
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-27T08:08:41Z",
+            "last_commit": "2026-08-27T18:58:34Z",
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20628
+            "stars": 20629
           },
           "title": "C#"
         },
@@ -3289,7 +3289,7 @@
             "archived": false,
             "id": 1903522,
             "language": "C",
-            "last_commit": "2026-08-27T11:25:08Z",
+            "last_commit": "2026-08-27T17:10:20Z",
             "owner": "php",
             "repo": "php-src",
             "stars": 40317
@@ -3320,10 +3320,10 @@
             "archived": false,
             "id": 724712,
             "language": "Rust",
-            "last_commit": "2026-08-27T10:27:24Z",
+            "last_commit": "2026-08-27T19:00:30Z",
             "owner": "rust-lang",
             "repo": "rust",
-            "stars": 116281
+            "stars": 116289
           },
           "title": "Rust"
         },
@@ -3366,7 +3366,7 @@
             "archived": false,
             "id": 1644196,
             "language": "Julia",
-            "last_commit": "2026-08-27T09:57:39Z",
+            "last_commit": "2026-08-27T18:36:59Z",
             "owner": "JuliaLang",
             "repo": "julia",
             "stars": 49039
@@ -3397,10 +3397,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T04:31:00Z",
+            "last_commit": "2026-08-27T18:32:19Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136538
+            "stars": 136544
           },
           "title": "Go"
         },
@@ -3415,7 +3415,7 @@
                 "archived": false,
                 "id": 7960131,
                 "language": "Haskell",
-                "last_commit": "2026-08-26T16:05:41Z",
+                "last_commit": "2026-08-27T15:28:25Z",
                 "owner": "diku-dk",
                 "repo": "futhark",
                 "stars": 2793
@@ -3504,10 +3504,10 @@
                 "archived": false,
                 "id": 49159983,
                 "language": "ReScript",
-                "last_commit": "2026-08-26T12:31:03Z",
+                "last_commit": "2026-08-27T14:23:07Z",
                 "owner": "rescript-lang",
                 "repo": "rescript",
-                "stars": 7435
+                "stars": 7434
               }
             }
           ],
@@ -3567,10 +3567,10 @@
             "archived": false,
             "id": 40411471,
             "language": "Haskell",
-            "last_commit": "2026-08-27T11:17:16Z",
+            "last_commit": "2026-08-27T18:58:22Z",
             "owner": "agda",
             "repo": "agda",
-            "stars": 2921
+            "stars": 2920
           }
         },
         {
@@ -3593,7 +3593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:58.911Z",
+    "last_updated": "2026-08-27T19:04:11.107Z",
     "original_repository_info": {
       "archived": false,
       "id": 46194363,

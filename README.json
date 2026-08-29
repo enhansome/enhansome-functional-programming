@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",
+            "homepage": "https://twitter.com/AwesomeElixir",
             "id": 21402627,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2025-10-12T18:06:13Z",
+            "open_issues": 29,
             "owner": "h4cc",
             "repo": "awesome-elixir",
-            "stars": 13166
+            "stars": 13166,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -26,12 +31,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community driven list of useful Scala libraries, frameworks and software.",
+            "homepage": "https://lauris.github.io/scala/2014/08/27/awesome-scala/",
             "id": 21604505,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-20T08:21:10Z",
+            "open_issues": 14,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9239
+            "stars": 9239,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "scala",
+              "scala-library",
+              "scalajs"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -42,12 +58,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:",
+            "homepage": null,
             "id": 35763170,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-21T04:46:24Z",
+            "open_issues": 3,
             "owner": "sporto",
             "repo": "awesome-elm",
-            "stars": 3685
+            "stars": 3685,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "elm",
+              "elm-apps",
+              "elm-language",
+              "elm-news",
+              "elm-tutorial",
+              "elm-videos"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -58,12 +88,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
+            "homepage": null,
             "id": 21791844,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-03T08:39:39Z",
+            "open_issues": 17,
             "owner": "krispo",
             "repo": "awesome-haskell",
-            "stars": 3284
+            "stars": 3284,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -74,12 +109,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff",
+            "homepage": null,
             "id": 21657624,
             "language": "Clojure",
+            "license": null,
             "last_commit": "2026-08-06T21:10:02Z",
+            "open_issues": 0,
             "owner": "razum2um",
             "repo": "awesome-clojure",
-            "stars": 2841
+            "stars": 2841,
+            "topics": [
+              "awesome-list",
+              "clojure",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -90,12 +134,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome things related to functional programming in Python.",
+            "homepage": null,
             "id": 76450431,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-23T05:10:14Z",
+            "open_issues": 8,
             "owner": "sfermigier",
             "repo": "awesome-functional-python",
-            "stars": 2555
+            "stars": 2555,
+            "topics": [
+              "awesome",
+              "functional-programming",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -106,12 +159,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome F# frameworks, libraries, software and resources.",
+            "homepage": null,
             "id": 69236015,
             "language": "F#",
+            "license": "CC0-1.0",
             "last_commit": "2026-03-21T15:21:56Z",
+            "open_issues": 6,
             "owner": "fsprojects",
             "repo": "awesome-fsharp",
-            "stars": 1431
+            "stars": 1431,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "dotnet",
+              "fsharp"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -122,12 +185,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curation of awesome PureScript libraries, resources and shiny things.",
+            "homepage": null,
             "id": 35229424,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-30T07:57:32Z",
+            "open_issues": 9,
             "owner": "passy",
             "repo": "awesome-purescript",
-            "stars": 483
+            "stars": 483,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "purescript"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -138,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Haskell frameworks, libraries and software.",
+            "homepage": null,
             "id": 40622605,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-12T00:02:42Z",
+            "open_issues": 6,
             "owner": "uhub",
             "repo": "awesome-haskell",
-            "stars": 466
+            "stars": 466,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -154,12 +232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Coq frameworks, libraries and software.",
+            "homepage": null,
             "id": 41132461,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-06T00:01:58Z",
+            "open_issues": 2,
             "owner": "uhub",
             "repo": "awesome-coq",
-            "stars": 234
+            "stars": 234,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         }
@@ -176,12 +259,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mostly adequate guide to FP (in javascript)",
+            "homepage": null,
             "id": 35133520,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-17T06:18:40Z",
+            "open_issues": 92,
             "owner": "MostlyAdequate",
             "repo": "mostly-adequate-guide",
-            "stars": 23822
+            "stars": 23822,
+            "topics": [
+              "functional-programming",
+              "javascript",
+              "reactive-programming",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -192,12 +285,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.",
+            "homepage": "http://FLJSBook.com",
             "id": 65866559,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-26T15:46:02Z",
+            "open_issues": 27,
             "owner": "getify",
             "repo": "Functional-Light-JS",
-            "stars": 16738
+            "stars": 16738,
+            "topics": [
+              "book",
+              "education",
+              "functional-programming",
+              "javascript",
+              "training-materials",
+              "training-providers"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -208,12 +313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.",
+            "homepage": null,
             "id": 12946174,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-10-08T09:28:30Z",
+            "open_issues": 83,
             "owner": "timoxley",
             "repo": "functional-javascript-workshop",
-            "stars": 2040
+            "stars": 2040,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -224,12 +334,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mostly adequate guide to FP (in javascript, translated to russian)",
+            "homepage": null,
             "id": 41765171,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-04T21:52:12Z",
+            "open_issues": 6,
             "owner": "MostlyAdequate",
             "repo": "mostly-adequate-guide-ru",
-            "stars": 1227
+            "stars": 1227,
+            "topics": [
+              "functional-programming",
+              "javascript",
+              "reactive-programming",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         }
@@ -246,12 +366,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A book series (2 published editions) on the JS language.",
+            "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
             "id": 14440270,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-02-15T04:36:44Z",
+            "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184749
+            "stars": 184748,
+            "topics": [
+              "async",
+              "book",
+              "book-series",
+              "closures",
+              "education",
+              "es2015",
+              "es6",
+              "javascript",
+              "learn-to-code",
+              "programming",
+              "prototypes",
+              "training-materials",
+              "training-providers"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -262,12 +401,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jargon from the functional programming world in simple terms!",
+            "homepage": "http://git.io/fp-jargons",
             "id": 31168578,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-17T12:04:55Z",
+            "open_issues": 27,
             "owner": "hemanth",
             "repo": "functional-programming-jargon",
-            "stars": 18648
+            "stars": 18646,
+            "topics": [
+              "awesome-list",
+              "education",
+              "fp",
+              "functional-programming",
+              "glossary",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -278,12 +429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn Haskell",
+            "homepage": null,
             "id": 19955205,
             "language": "Makefile",
+            "license": "CC0-1.0",
             "last_commit": "2026-07-20T17:07:02Z",
+            "open_issues": 13,
             "owner": "bitemyapp",
             "repo": "learnhaskell",
-            "stars": 8033
+            "stars": 8033,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -294,12 +450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunglasses: A curated list of awesome functional programming stuff in js",
+            "homepage": null,
             "id": 35660659,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-15T19:55:47Z",
+            "open_issues": 1,
             "owner": "stoeffel",
             "repo": "awesome-fp-js",
-            "stars": 6035
+            "stars": 6035,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -310,12 +471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code, exercises, answers, and hints to go along with the book \"Functional Programming in Scala\"",
+            "homepage": "http://manning.com/bjarnason",
             "id": 3526586,
             "language": "Scala",
+            "license": "MIT",
             "last_commit": "2024-12-11T18:19:58Z",
+            "open_issues": 130,
             "owner": "fpinscala",
             "repo": "fpinscala",
-            "stars": 5852
+            "stars": 5852,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -326,12 +492,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)",
+            "homepage": null,
             "id": 28814210,
             "language": "Haskell",
+            "license": "MIT",
             "last_commit": "2021-01-11T13:56:03Z",
+            "open_issues": 31,
             "owner": "sdiehl",
             "repo": "write-you-a-haskell",
-            "stars": 3482
+            "stars": 3482,
+            "topics": [
+              "book",
+              "compiler",
+              "evaluation",
+              "functional-language",
+              "functional-programming",
+              "haskel",
+              "hindley-milner",
+              "intermediate-representation",
+              "lambda-calculus",
+              "pdf-book",
+              "type",
+              "type-checking",
+              "type-inference",
+              "type-system",
+              "type-theory"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -342,12 +529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
+            "homepage": null,
             "id": 21791844,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-03T08:39:39Z",
+            "open_issues": 17,
             "owner": "krispo",
             "repo": "awesome-haskell",
-            "stars": 3284
+            "stars": 3284,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -358,12 +550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python",
+            "homepage": "http://caiorss.github.io/Functional-Programming",
             "id": 30597615,
             "language": "Haskell",
+            "license": "Unlicense",
             "last_commit": "2019-08-06T22:00:55Z",
+            "open_issues": 9,
             "owner": "caiorss",
             "repo": "Functional-Programming",
-            "stars": 2693
+            "stars": 2693,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -374,12 +571,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A puzzle game inspired by functional programming",
+            "homepage": "https://david-peter.de/cube-composer",
             "id": 31920956,
             "language": "PureScript",
+            "license": "MIT",
             "last_commit": "2022-12-08T09:23:40Z",
+            "open_issues": 10,
             "owner": "sharkdp",
             "repo": "cube-composer",
-            "stars": 2047
+            "stars": 2047,
+            "topics": [
+              "browser-game",
+              "functional-programming",
+              "game",
+              "programming-exercise",
+              "purescript",
+              "puzzle"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -390,12 +599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A functional javascript workshop. No libraries required (i.e. no underscore), just ES5.",
+            "homepage": null,
             "id": 12946174,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-10-08T09:28:30Z",
+            "open_issues": 83,
             "owner": "timoxley",
             "repo": "functional-javascript-workshop",
-            "stars": 2040
+            "stars": 2040,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -406,12 +620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A functional frontend framework.",
+            "homepage": null,
             "id": 35723130,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-07-02T08:08:39Z",
+            "open_issues": 9,
             "owner": "paldepind",
             "repo": "functional-frontend-architecture",
-            "stars": 1436
+            "stars": 1436,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -422,12 +641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple examples to help you understand ES6",
+            "homepage": null,
             "id": 33186070,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-12-15T05:50:07Z",
+            "open_issues": 9,
             "owner": "sgaurav",
             "repo": "understanding-es6",
-            "stars": 1120
+            "stars": 1119,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -438,12 +662,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An overview of Elm syntax and features",
+            "homepage": null,
             "id": 51261172,
             "language": "Elm",
+            "license": "MIT",
             "last_commit": "2018-04-27T10:21:28Z",
+            "open_issues": 2,
             "owner": "izdi",
             "repo": "elm-cheat-sheet",
-            "stars": 948
+            "stars": 948,
+            "topics": [
+              "cheatsheet",
+              "education",
+              "elm",
+              "functional-programming",
+              "learn",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -454,12 +690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual programming meets Haskell",
+            "homepage": null,
             "id": 30242992,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2017-04-19T22:14:33Z",
+            "open_issues": 22,
             "owner": "viskell",
             "repo": "viskell",
-            "stars": 679
+            "stars": 679,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -470,12 +711,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FP101x - Functional Programming MOOC 2015 Content Repository",
+            "homepage": null,
             "id": 44247257,
             "language": "Haskell",
+            "license": null,
             "last_commit": "2015-12-20T20:47:19Z",
+            "open_issues": 0,
             "owner": "fptudelft",
             "repo": "FP101x-Content-2015",
-            "stars": 515
+            "stars": 515,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -486,12 +732,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code Samples Functional Programming in JavaScript, Manning 2016",
+            "homepage": null,
             "id": 35506140,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-09T20:35:59Z",
+            "open_issues": 5,
             "owner": "luijar",
             "repo": "functional-programming-js",
-            "stars": 483
+            "stars": 483,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -502,12 +753,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":tada: A list of functional javascript resources",
+            "homepage": null,
             "id": 32302320,
             "language": null,
+            "license": null,
             "last_commit": "2022-09-02T13:08:44Z",
+            "open_issues": 1,
             "owner": "jkup",
             "repo": "functional-javascript",
-            "stars": 395
+            "stars": 395,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -518,12 +774,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for blog post Journey from procedural to reactive JavaScript with stops",
+            "homepage": "http://glebbahmutov.com/blog/journey-from-procedural-to-reactive-javascript-with-stops/",
             "id": 46008809,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-08-04T20:42:53Z",
+            "open_issues": 4,
             "owner": "bahmutov",
             "repo": "javascript-journey",
-            "stars": 332
+            "stars": 332,
+            "topics": [
+              "example",
+              "javascript",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -534,12 +799,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 16745225,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-01T01:46:47Z",
+            "open_issues": 2,
             "owner": "busypeoples",
             "repo": "functional-programming-javascript",
-            "stars": 302
+            "stars": 302,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -550,12 +820,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Cookbook for writing FP in JavaScript using ES6",
+            "homepage": null,
             "id": 45503450,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-09-07T20:15:29Z",
+            "open_issues": 2,
             "owner": "js-functional",
             "repo": "js-funcional",
-            "stars": 253
+            "stars": 253,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -566,12 +841,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community driven Elm guide for JS people",
+            "homepage": null,
             "id": 42889534,
             "language": null,
+            "license": null,
             "last_commit": "2019-08-30T00:27:34Z",
+            "open_issues": 3,
             "owner": "elm-guides",
             "repo": "elm-for-js",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -582,12 +862,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Total functional programming (ESFP) literature",
+            "homepage": null,
             "id": 33438221,
             "language": null,
+            "license": null,
             "last_commit": "2019-02-15T11:56:59Z",
+            "open_issues": 0,
             "owner": "mietek",
             "repo": "total-fp",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -598,12 +883,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "formalization of the Dependent Object Types (DOT) calculus",
+            "homepage": "http://lamp.epfl.ch/~amin/dot/",
             "id": 3261325,
             "language": null,
+            "license": null,
             "last_commit": "2016-09-08T13:37:52Z",
+            "open_issues": 0,
             "owner": "namin",
             "repo": "dot",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "coq",
+              "dafny",
+              "meta-theory",
+              "oop",
+              "plt-redex",
+              "twelf"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -614,12 +911,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate Haskell code from a type",
+            "homepage": null,
             "id": 23763117,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-02-21T01:16:29Z",
+            "open_issues": 3,
             "owner": "augustss",
             "repo": "djinn",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -630,12 +932,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official supporting materials repository for LambdaConf 2015.",
+            "homepage": null,
             "id": 34995148,
             "language": "JavaScript",
+            "license": "Artistic-2.0",
             "last_commit": "2015-05-29T21:19:49Z",
+            "open_issues": 1,
             "owner": "degoes-consulting",
             "repo": "lambdaconf-2015",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -646,12 +953,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Formalization of the Dependent Object Types (DOT) calculus",
+            "homepage": null,
             "id": 24939227,
             "language": "Coq",
+            "license": null,
             "last_commit": "2022-08-30T21:48:48Z",
+            "open_issues": 0,
             "owner": "samuelgruetter",
             "repo": "dot-calculus",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -662,12 +974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 40450119,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2017-02-05T22:53:46Z",
+            "open_issues": 0,
             "owner": "eeue56",
             "repo": "haskell-to-elm",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -678,12 +995,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Archive the best resources surrounding the functional programming paradigm for JavaScript developers.",
+            "homepage": null,
             "id": 32098293,
             "language": null,
+            "license": "MIT",
             "last_commit": "2017-11-22T07:59:55Z",
+            "open_issues": 0,
             "owner": "radiovisual",
             "repo": "functional-programming-resources",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "functional-js",
+              "functional-languages",
+              "javascript",
+              "paradigm"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -694,12 +1021,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of tips for people using Elm from a web-dev background",
+            "homepage": null,
             "id": 40670947,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2016-01-25T00:37:06Z",
+            "open_issues": 0,
             "owner": "eeue56",
             "repo": "elm-for-web-developers",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -710,12 +1042,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Straightforward language for the Web.",
+            "homepage": "http://yosbelms.github.io/cor",
             "id": 45696166,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-06-15T15:56:03Z",
+            "open_issues": 0,
             "owner": "yosbelms",
             "repo": "cor",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -726,12 +1063,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pragmatic functional programming in JavaScript - Workshop material",
+            "homepage": null,
             "id": 59546663,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2016-05-24T14:56:07Z",
+            "open_issues": 0,
             "owner": "staltz",
             "repo": "fp-js-workshop",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -742,12 +1084,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "λ List of resources related to Functional Programming in JS",
+            "homepage": null,
             "id": 39254600,
             "language": null,
+            "license": null,
             "last_commit": "2018-02-27T15:01:54Z",
+            "open_issues": 0,
             "owner": "codekult",
             "repo": "adventures-of-lambda-in-JS",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -758,12 +1105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haskell monads for learning purposes",
+            "homepage": null,
             "id": 15168754,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-08-11T12:58:30Z",
+            "open_issues": 0,
             "owner": "raimohanska",
             "repo": "Monads",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -774,12 +1126,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://schalk.net:3055",
             "id": 55293638,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-07-07T19:05:53Z",
+            "open_issues": 1,
             "owner": "dschalk",
             "repo": "monads-for-functional-javascript",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -790,12 +1147,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Answers to the exercises from https://github.com/MostlyAdequate/mostly-adequate-guide",
+            "homepage": null,
             "id": 46166287,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2015-11-14T07:48:06Z",
+            "open_issues": 0,
             "owner": "gypsydave5",
             "repo": "mostly-adequate-functional-answers",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -806,12 +1168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explorations in Functional Land",
+            "homepage": null,
             "id": 55302964,
             "language": "Haskell",
+            "license": null,
             "last_commit": "2017-07-25T00:14:52Z",
+            "open_issues": 0,
             "owner": "svenschmidt75",
             "repo": "Functional",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         }
@@ -830,12 +1197,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Async utilities for node and the browser",
+                "homepage": "http://caolan.github.io/async/",
                 "id": 698041,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T17:03:35Z",
+                "open_issues": 23,
                 "owner": "caolan",
                 "repo": "async",
-                "stars": 28138
+                "stars": 28138,
+                "topics": [
+                  "async",
+                  "callbacks",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -846,12 +1222,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Specification for interoperability of common algebraic structures in JavaScript",
+                "homepage": null,
                 "id": 9385519,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-11-10T21:50:53Z",
+                "open_issues": 36,
                 "owner": "fantasyland",
                 "repo": "fantasy-land",
-                "stars": 10240
+                "stars": 10240,
+                "topics": [
+                  "fantasy-land",
+                  "functional",
+                  "javascript",
+                  "specification"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -862,12 +1248,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repo is suspended.",
+                "homepage": "https://typescript.fun/",
                 "id": 8230809,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2019-09-03T21:39:46Z",
+                "open_issues": 0,
                 "owner": "este",
                 "repo": "este",
-                "stars": 5323
+                "stars": 5323,
+                "topics": [
+                  "graphql",
+                  "nextjs",
+                  "prisma",
+                  "react-native-web",
+                  "reactjs",
+                  "relay",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -878,12 +1277,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Javascript library for working with native objects.",
+                "homepage": "https://sugarjs.com/",
                 "id": 2037608,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-13T16:23:08Z",
+                "open_issues": 95,
                 "owner": "andrewplummer",
                 "repo": "Sugar",
-                "stars": 4504
+                "stars": 4504,
+                "topics": [
+                  "javascript",
+                  "native-objects",
+                  "polyfill",
+                  "sugar",
+                  "utility-library"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -894,12 +1304,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":see_no_evil: Refuge from unsafe JavaScript",
+                "homepage": "https://sanctuary.js.org",
                 "id": 29455960,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-11-10T16:48:46Z",
+                "open_issues": 36,
                 "owner": "sanctuary-js",
                 "repo": "sanctuary",
-                "stars": 3052
+                "stars": 3052,
+                "topics": [
+                  "fantasy-land",
+                  "sanctuary"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -910,12 +1328,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦋 Fantasy Land compliant (monadic) alternative to Promises",
+                "homepage": null,
                 "id": 53253439,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-22T19:36:55Z",
+                "open_issues": 12,
                 "owner": "fluture-js",
                 "repo": "Fluture",
-                "stars": 2493
+                "stars": 2493,
+                "topics": [
+                  "algebraic-data-types",
+                  "async",
+                  "cancellation",
+                  "control-flow",
+                  "fantasy-land",
+                  "fluture",
+                  "functional-programming",
+                  "future",
+                  "monad",
+                  "promise",
+                  "sanctuary"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -926,12 +1361,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSP channels for Javascript (like Clojurescript's core.async, or Go)",
+                "homepage": null,
                 "id": 16347676,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-07-20T03:14:27Z",
+                "open_issues": 36,
                 "owner": "js-csp",
                 "repo": "js-csp",
-                "stars": 2319
+                "stars": 2319,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -942,12 +1382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Callback heaven for Node.js with async/await",
+                "homepage": null,
                 "id": 17902507,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-04-28T12:48:29Z",
+                "open_issues": 8,
                 "owner": "yortus",
                 "repo": "asyncawait",
-                "stars": 1897
+                "stars": 1897,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -958,12 +1403,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "linq.js - LINQ for JavaScript",
+                "homepage": null,
                 "id": 3957383,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-05-19T10:03:34Z",
+                "open_issues": 19,
                 "owner": "mihaifm",
                 "repo": "linq",
-                "stars": 1732
+                "stars": 1732,
+                "topics": [
+                  "javascript",
+                  "linq"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -974,12 +1427,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small library for generalized transformation of data (inspired by Clojure's transducers)",
+                "homepage": null,
                 "id": 24201496,
                 "language": "JavaScript",
+                "license": "BSD-2-Clause",
                 "last_commit": "2017-06-12T01:28:58Z",
+                "open_issues": 21,
                 "owner": "jlongster",
                 "repo": "transducers.js",
-                "stars": 1719
+                "stars": 1719,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -990,12 +1448,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional programming library for TypeScript - https://gigobyte.github.io/purify/",
+                "homepage": null,
                 "id": 120522605,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2025-12-16T09:02:32Z",
+                "open_issues": 3,
                 "owner": "gigobyte",
                 "repo": "purify",
-                "stars": 1603
+                "stars": 1603,
+                "topics": [
+                  "algebraic-data-types",
+                  "codec",
+                  "decode",
+                  "either",
+                  "fantasy-land",
+                  "functional-programming",
+                  "functor",
+                  "maybe",
+                  "monad",
+                  "option-type",
+                  "result-type",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1006,12 +1482,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Transducers for JavaScript",
+                "homepage": null,
                 "id": 24363972,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-03T21:41:12Z",
+                "open_issues": 19,
                 "owner": "cognitect-labs",
                 "repo": "transducers-js",
-                "stars": 1602
+                "stars": 1602,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1022,12 +1503,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of well known Algebraic Data Types for your utter enjoyment.",
+                "homepage": "https://crocks.dev",
                 "id": 62473217,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2023-01-06T01:32:51Z",
+                "open_issues": 69,
                 "owner": "evilsoft",
                 "repo": "crocks",
-                "stars": 1598
+                "stars": 1598,
+                "topics": [
+                  "adt",
+                  "composition",
+                  "curry",
+                  "functor",
+                  "lift",
+                  "monad",
+                  "monoid",
+                  "pair",
+                  "predicate-functions",
+                  "unary-functions"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1038,12 +1535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":ram::sparkles: Fantasy-Land compatible types for easy integration with Ramda.js",
+                "homepage": null,
                 "id": 27448635,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-01-31T13:41:16Z",
+                "open_issues": 21,
                 "owner": "ramda",
                 "repo": "ramda-fantasy",
-                "stars": 1499
+                "stars": 1499,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1054,12 +1556,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A utility library for modern JavaScript.",
+                "homepage": null,
                 "id": 37113843,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2020-01-09T17:32:42Z",
+                "open_issues": 24,
                 "owner": "jussi-kalliokoski",
                 "repo": "trine",
-                "stars": 1411
+                "stars": 1411,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1070,12 +1577,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Partial lenses is a comprehensive, high-performance optics library for JavaScript",
+                "homepage": null,
                 "id": 50582234,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-11-18T13:19:33Z",
+                "open_issues": 23,
                 "owner": "calmm-js",
                 "repo": "partial.lenses",
-                "stars": 924
+                "stars": 924,
+                "topics": [
+                  "counterculture",
+                  "fold",
+                  "functional",
+                  "immutable",
+                  "isomorphism",
+                  "json",
+                  "lens",
+                  "optics",
+                  "partial-lenses",
+                  "traversal"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1086,12 +1609,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌀LINQ for TypeScript",
+                "homepage": "http://kutyel.github.io/linq.ts/",
                 "id": 52595427,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-15T09:35:27Z",
+                "open_issues": 0,
                 "owner": "kutyel",
                 "repo": "linq.ts",
-                "stars": 880
+                "stars": 880,
+                "topics": [
+                  "hacktoberfest",
+                  "linq",
+                  "linq-expressions",
+                  "linq-extensions",
+                  "linq-methods",
+                  "linq-samples",
+                  "linq-to-objects",
+                  "linq-typescript",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1102,12 +1640,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lazy Object Streaming Pipeline for JavaScript",
+                "homepage": "http://winterbe.github.io/streamjs/",
                 "id": 28593843,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-08-19T13:58:34Z",
+                "open_issues": 0,
                 "owner": "winterbe",
                 "repo": "streamjs",
-                "stars": 858
+                "stars": 858,
+                "topics": [
+                  "javascript",
+                  "stream",
+                  "stream-pipeline",
+                  "streaming-api"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1118,12 +1666,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional tools that couldn’t be simpler.",
+                "homepage": null,
                 "id": 34197833,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-16T13:08:38Z",
+                "open_issues": 28,
                 "owner": "1-liners",
                 "repo": "1-liners",
-                "stars": 799
+                "stars": 799,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1134,12 +1687,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":surfer: Asynchronous flow control with a functional taste to it",
+                "homepage": "https://ponyfoo.com",
                 "id": 15966223,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-16T02:11:28Z",
+                "open_issues": 1,
                 "owner": "bevacqua",
                 "repo": "contra",
-                "stars": 776
+                "stars": 776,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1150,12 +1708,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Specification for common algebraic structures in JavaScript based on Fantasy Land",
+                "homepage": null,
                 "id": 53745720,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-29T13:34:03Z",
+                "open_issues": 11,
                 "owner": "fantasyland",
                 "repo": "static-land",
-                "stars": 775
+                "stars": 775,
+                "topics": [
+                  "adt",
+                  "algebra",
+                  "algebraic",
+                  "algebraic-data-types",
+                  "fantasy-land",
+                  "functional-programming",
+                  "functor",
+                  "monad",
+                  "monoid",
+                  "specification",
+                  "static-land"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1166,12 +1741,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for creating tagged constructors.",
+                "homepage": null,
                 "id": 10384029,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-07-19T10:37:27Z",
+                "open_issues": 2,
                 "owner": "fantasyland",
                 "repo": "daggy",
-                "stars": 707
+                "stars": 707,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1182,12 +1762,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neo-Async is thought to be used as a drop-in replacement for Async, it almost fully covers its functionality and runs faster",
+                "homepage": null,
                 "id": 27030361,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-02T17:22:37Z",
+                "open_issues": 15,
                 "owner": "suguru03",
                 "repo": "neo-async",
-                "stars": 654
+                "stars": 654,
+                "topics": [
+                  "async",
+                  "javascript",
+                  "neo-async",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1198,12 +1788,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional programming toolkit for JavaScript.",
+                "homepage": "https://fkit.joshbassett.info",
                 "id": 23100020,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-08-31T01:39:39Z",
+                "open_issues": 2,
                 "owner": "nullobject",
                 "repo": "fkit",
-                "stars": 581
+                "stars": 581,
+                "topics": [
+                  "fp",
+                  "functional",
+                  "functional-programming",
+                  "javascript",
+                  "library"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1214,12 +1815,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Lodash with more functional fun.",
+                "homepage": null,
                 "id": 29086069,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2016-03-06T01:30:38Z",
+                "open_issues": 1,
                 "owner": "lodash-archive",
                 "repo": "lodash-fp",
-                "stars": 556
+                "stars": 556,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1230,12 +1836,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Transpile ES2017 async/await to vanilla ES6 Promise chains: a Babel plugin",
+                "homepage": null,
                 "id": 50246549,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2018-11-14T16:45:04Z",
+                "open_issues": 13,
                 "owner": "babel",
                 "repo": "kneden",
-                "stars": 512
+                "stars": 512,
+                "topics": [
+                  "async",
+                  "babel-plugin",
+                  "promise"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1246,12 +1861,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⌛ Use async functions in your JavaScript today with speed and simplicity.",
+                "homepage": null,
                 "id": 65431553,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-02-15T22:04:17Z",
+                "open_issues": 0,
                 "owner": "leebyron",
                 "repo": "async-to-gen",
-                "stars": 507
+                "stars": 507,
+                "topics": [
+                  "async-functions",
+                  "async-iterators",
+                  "javascript",
+                  "transform"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1262,12 +1887,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fantasyland extensions for immutablejs",
+                "homepage": null,
                 "id": 54686525,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2019-02-10T20:33:36Z",
+                "open_issues": 5,
                 "owner": "DrBoolean",
                 "repo": "immutable-ext",
-                "stars": 489
+                "stars": 489,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1278,12 +1908,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small JavaScript library for defining and using union types.",
+                "homepage": null,
                 "id": 35621932,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-06-05T12:33:58Z",
+                "open_issues": 18,
                 "owner": "paldepind",
                 "repo": "union-type",
-                "stars": 479
+                "stars": 479,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1294,12 +1929,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Point free wrappers for fantasy land",
+                "homepage": null,
                 "id": 15710329,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-10-08T15:07:05Z",
+                "open_issues": 5,
                 "owner": "DrBoolean",
                 "repo": "pointfree-fantasy",
-                "stars": 450
+                "stars": 450,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1310,12 +1950,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED, please check out fp-ts] Implementation of common algebraic types in JavaScript + Flow",
+                "homepage": null,
                 "id": 65665735,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-11-02T20:48:40Z",
+                "open_issues": 10,
                 "owner": "gcanti",
                 "repo": "flow-static-land",
-                "stars": 409
+                "stars": 409,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1326,12 +1971,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Little monad library designed for TypeScript",
+                "homepage": null,
                 "id": 23492087,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-12-21T05:41:46Z",
+                "open_issues": 5,
                 "owner": "cbowdon",
                 "repo": "TsMonad",
-                "stars": 395
+                "stars": 395,
+                "topics": [
+                  "fantasy-land",
+                  "javascript",
+                  "monad",
+                  "monad-library",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1342,12 +1998,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A really tiny functional JavaScript and async flow-control library",
+                "homepage": "http://caolan.github.com/nimble",
                 "id": 1495487,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2011-11-14T17:53:49Z",
+                "open_issues": 3,
                 "owner": "caolan",
                 "repo": "nimble",
-                "stars": 327
+                "stars": 327,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1358,12 +2019,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CSP style channels using ES7 async/await",
+                "homepage": null,
                 "id": 37506855,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-11-08T03:45:46Z",
+                "open_issues": 6,
                 "owner": "dvlsg",
                 "repo": "async-csp",
-                "stars": 317
+                "stars": 317,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1374,12 +2040,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Traverse objects and arrays with ease",
+                "homepage": "http://ricostacruz.com/scour",
                 "id": 48351219,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-07-17T13:28:41Z",
+                "open_issues": 10,
                 "owner": "rstacruz",
                 "repo": "scour",
-                "stars": 304
+                "stars": 304,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1390,12 +2061,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Asynchronous Javascript language extensions",
+                "homepage": null,
                 "id": 14557681,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-09-02T09:48:23Z",
+                "open_issues": 3,
                 "owner": "MatAtBread",
                 "repo": "nodent",
-                "stars": 287
+                "stars": 287,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1406,12 +2082,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source for \"Haskell in ES6\" article series",
+                "homepage": "http://casualjavascript.com",
                 "id": 46074310,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-08-20T18:46:34Z",
+                "open_issues": 2,
                 "owner": "casualjavascript",
                 "repo": "haskell-in-es6",
-                "stars": 286
+                "stars": 286,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1422,12 +2103,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sophisticated and functionally-minded async with advanced features: coroutines, promises, ES2015 iterables, fantasy-land",
+                "homepage": "https://briancavalier.github.io/creed",
                 "id": 39137690,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-05-29T11:34:23Z",
+                "open_issues": 16,
                 "owner": "briancavalier",
                 "repo": "creed",
-                "stars": 277
+                "stars": 277,
+                "topics": [
+                  "async",
+                  "async-programming",
+                  "asynchronous",
+                  "coroutines",
+                  "fantasy-land",
+                  "promise"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1438,12 +2131,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":rainbow: Standard library for Fantasy Land",
+                "homepage": null,
                 "id": 58353356,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-11-10T16:57:50Z",
+                "open_issues": 3,
                 "owner": "sanctuary-js",
                 "repo": "sanctuary-type-classes",
-                "stars": 239
+                "stars": 239,
+                "topics": [
+                  "fantasy-land",
+                  "sanctuary"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1454,12 +2155,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple functional and immutable color manipulation library",
+                "homepage": null,
                 "id": 56393327,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-07-01T22:08:00Z",
+                "open_issues": 3,
                 "owner": "adriantoine",
                 "repo": "kewler",
-                "stars": 230
+                "stars": 230,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1470,12 +2176,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Algebraic data types for Javascript",
+                "homepage": null,
                 "id": 5650436,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2014-03-01T23:02:16Z",
+                "open_issues": 2,
                 "owner": "natefaubion",
                 "repo": "adt.js",
-                "stars": 220
+                "stars": 220,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1486,12 +2197,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Composable kmett style lenses",
+                "homepage": null,
                 "id": 15570912,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-09-28T15:38:11Z",
+                "open_issues": 3,
                 "owner": "DrBoolean",
                 "repo": "lenses",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1502,12 +2218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":ram: :mag_right: Lens library built on ramda",
+                "homepage": null,
                 "id": 49837740,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-06-13T23:59:04Z",
+                "open_issues": 4,
                 "owner": "ramda",
                 "repo": "ramda-lens",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1518,12 +2239,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of Haskell-style morphisms ported to ES2015 JavaScript using Babel.",
+                "homepage": null,
                 "id": 54130546,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-05-27T21:49:29Z",
+                "open_issues": 19,
                 "owner": "sjsyrek",
                 "repo": "maryamyriameliamurphies.js",
-                "stars": 182
+                "stars": 182,
+                "topics": [
+                  "es2015",
+                  "functional-programming",
+                  "haskell",
+                  "javascript",
+                  "monads"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1534,12 +2266,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Do-notation for JavaScript",
+                "homepage": null,
                 "id": 59379672,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-04-19T18:08:09Z",
+                "open_issues": 1,
                 "owner": "pelotom",
                 "repo": "burrido",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "monad",
+                  "notation",
+                  "syntax"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1550,12 +2291,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free monad Collection",
+                "homepage": null,
                 "id": 53267871,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-13T12:12:30Z",
+                "open_issues": 7,
                 "owner": "DrBoolean",
                 "repo": "freeky",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1566,12 +2312,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn callback-style functions or promises into futures",
+                "homepage": null,
                 "id": 48180590,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-05-24T16:23:38Z",
+                "open_issues": 29,
                 "owner": "futurize",
                 "repo": "futurize",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1582,12 +2333,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "CSP/Actor/Transducer Experiments",
+                "homepage": null,
                 "id": 23498843,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2014-09-28T15:41:48Z",
+                "open_issues": 0,
                 "owner": "tgvashworth",
                 "repo": "csp",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1598,12 +2354,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for simulating immutable generators in JavaScript",
+                "homepage": null,
                 "id": 59378148,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-07-19T18:14:34Z",
+                "open_issues": 1,
                 "owner": "pelotom",
                 "repo": "immutagen",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "generator",
+                  "immutable"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1614,12 +2378,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Composable, immutable getters and setters.",
+                "homepage": null,
                 "id": 11539569,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-02-17T19:03:18Z",
+                "open_issues": 3,
                 "owner": "fantasyland",
                 "repo": "fantasy-lenses",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1630,12 +2399,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tiny (2.7kb) functional programming library using native es5/6 operations",
+                "homepage": null,
                 "id": 47858117,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-10-26T14:09:18Z",
+                "open_issues": 0,
                 "owner": "cullophid",
                 "repo": "barely-functional",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1646,12 +2420,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😴 Functional programming with lazy immutable iterables",
+                "homepage": "https://imlazy.netlify.com",
                 "id": 45711354,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-02T15:22:08Z",
+                "open_issues": 7,
                 "owner": "benji6",
                 "repo": "imlazy",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "curried",
+                  "functional-programming",
+                  "generator",
+                  "haskell",
+                  "immutable",
+                  "infinite",
+                  "iterables",
+                  "iterator",
+                  "lazy",
+                  "ramda"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1662,12 +2452,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "port of the haskell package Data.Aviary.Birds. Every thing for your combinatory needs.",
+                "homepage": null,
                 "id": 51715347,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-10-22T16:13:52Z",
+                "open_issues": 4,
                 "owner": "fantasyland",
                 "repo": "fantasy-birds",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1678,12 +2473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":radio: JavaScript transducers",
+                "homepage": null,
                 "id": 27016808,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-11-20T13:55:32Z",
+                "open_issues": 8,
                 "owner": "transduce",
                 "repo": "transduce",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1694,12 +2494,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful and practical functional abstractions for JavaScript and TypeScript. Functors, Monads, Traversables and all that jazz.",
+                "homepage": null,
                 "id": 64081658,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2018-06-06T09:55:43Z",
+                "open_issues": 6,
                 "owner": "funkia",
                 "repo": "jabz",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1710,12 +2515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":raising_hand: Transducers Inspired by Underscore",
+                "homepage": "http://simplectic.com/projects/underarm",
                 "id": 24297488,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-02-02T00:56:56Z",
+                "open_issues": 0,
                 "owner": "kevinbeaty",
                 "repo": "underarm",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1726,12 +2536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Profunctor implementation of Lenses, Prisms, Traversals, Isos, etc.",
+                "homepage": null,
                 "id": 51406335,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-05-05T00:02:32Z",
+                "open_issues": 1,
                 "owner": "flunc",
                 "repo": "optics",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1742,12 +2557,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional javascript for adults - no cushions included",
+                "homepage": null,
                 "id": 3647028,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-01-03T09:15:49Z",
+                "open_issues": 2,
                 "owner": "culljs",
                 "repo": "culljs",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1758,12 +2578,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Practical functional programming in JavaScript",
+                "homepage": "http://extralogical.net/projects/udon",
                 "id": 791241,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2012-08-29T14:41:50Z",
+                "open_issues": 0,
                 "owner": "beastaugh",
                 "repo": "udon",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1774,12 +2599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Do-notation for javascript fantasy land",
+                "homepage": null,
                 "id": 16033848,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2014-01-18T21:01:02Z",
+                "open_issues": 0,
                 "owner": "russellmcc",
                 "repo": "fantasydo",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1790,12 +2620,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chainable object-oriented functional combinators",
+                "homepage": null,
                 "id": 11178061,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2013-11-06T06:37:38Z",
+                "open_issues": 0,
                 "owner": "dtinth",
                 "repo": "it.js",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "javascript",
+                  "mocha"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1806,12 +2644,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Monadic middleware",
+                "homepage": null,
                 "id": 55833590,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-04-06T12:38:42Z",
+                "open_issues": 2,
                 "owner": "fluture-js",
                 "repo": "momi",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "algebraic-data-types",
+                  "fluture",
+                  "middleware",
+                  "monad"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1822,12 +2670,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Combination of a free applicative functor and free monad",
+                "homepage": null,
                 "id": 61940236,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-08-09T12:27:35Z",
+                "open_issues": 8,
                 "owner": "safareli",
                 "repo": "free",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1838,12 +2691,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional CSP library using ES7 async/await keywords",
+                "homepage": null,
                 "id": 37478270,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-16T14:07:43Z",
+                "open_issues": 2,
                 "owner": "bbarr",
                 "repo": "medium",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1854,12 +2712,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Functional programming tools for recurring promises",
+                "homepage": null,
                 "id": 49025922,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2018-02-14T22:29:42Z",
+                "open_issues": 7,
                 "owner": "google",
                 "repo": "chained-promise",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1870,12 +2733,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write a functional switch statement.",
+                "homepage": null,
                 "id": 51715946,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-07-25T14:45:25Z",
+                "open_issues": 0,
                 "owner": "ajoslin",
                 "repo": "switch-fn",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1886,12 +2754,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tiny functional programming suite for JavaScript.",
+                "homepage": null,
                 "id": 23765779,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-12-16T20:29:21Z",
+                "open_issues": 1,
                 "owner": "dvdzkwsk",
                 "repo": "redash",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "composition",
+                  "es2015",
+                  "functional-programming",
+                  "javascript",
+                  "javascript-library",
+                  "js-library",
+                  "library",
+                  "standard-library"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1902,12 +2784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a featured fork of mori, with core.async included",
+                "homepage": null,
                 "id": 35652206,
                 "language": "Clojure",
+                "license": null,
                 "last_commit": "2016-03-23T01:26:51Z",
+                "open_issues": 0,
                 "owner": "jcouyang",
                 "repo": "conjs",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1918,12 +2805,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Port of the async library to use Promises.",
+                "homepage": null,
                 "id": 32556228,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-10-13T19:12:01Z",
+                "open_issues": 2,
                 "owner": "jgornick",
                 "repo": "asyncp",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1934,12 +2826,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of ES7 async/await utilities",
+                "homepage": null,
                 "id": 27561476,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T19:53:00Z",
+                "open_issues": 1,
                 "owner": "appium",
                 "repo": "asyncbox",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1950,12 +2847,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Do-notation and Monads for JavaScript",
+                "homepage": null,
                 "id": 5153929,
                 "language": "PEG.js",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-23T17:23:17Z",
+                "open_issues": 0,
                 "owner": "spring-attic",
                 "repo": "monadic",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1966,12 +2868,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Practical monad transformers for JS.",
+                "homepage": null,
                 "id": 38532067,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-12-27T15:05:33Z",
+                "open_issues": 0,
                 "owner": "abuseofnotation",
                 "repo": "monad-transformers",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1982,12 +2889,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":sparkles: A purely functional random number generator",
+                "homepage": "https://www.npmjs.com/package/pure-random",
                 "id": 53234654,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-03-06T04:37:07Z",
+                "open_issues": 0,
                 "owner": "Risto-Stevcev",
                 "repo": "pure-random",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "csprng",
+                  "fp",
+                  "functional",
+                  "generator",
+                  "number",
+                  "prng",
+                  "pure",
+                  "purely",
+                  "random",
+                  "xorshift"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -1998,12 +2921,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Free monad",
+                "homepage": null,
                 "id": 40195767,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-01-20T22:05:15Z",
+                "open_issues": 0,
                 "owner": "fantasyland",
                 "repo": "fantasy-frees",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2014,12 +2942,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small library for functional programming with ES2015+",
+                "homepage": null,
                 "id": 38808129,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2015-10-22T10:49:01Z",
+                "open_issues": 0,
                 "owner": "gonzaloruizdevilla",
                 "repo": "alicates",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2030,12 +2963,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 37729826,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-08-28T02:18:50Z",
+                "open_issues": 1,
                 "owner": "pandanoir",
                 "repo": "List-in-JS",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2046,12 +2984,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Moved to https://github.com/mostjs/core",
+                "homepage": null,
                 "id": 51883845,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-06-16T16:31:36Z",
+                "open_issues": 1,
                 "owner": "mostjs",
                 "repo": "prelude",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2062,12 +3005,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Push-Based Functional Reactive Web Application Framework",
+                "homepage": "http://marknutter.github.io/nux",
                 "id": 46356144,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-05T18:59:06Z",
+                "open_issues": 8,
                 "owner": "marknutter",
                 "repo": "nux",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2078,12 +3026,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for ES6 generators",
+                "homepage": null,
                 "id": 58535148,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-05-18T10:25:43Z",
+                "open_issues": 0,
                 "owner": "sashee",
                 "repo": "gentoo",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2094,12 +3047,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "State control structure.",
+                "homepage": null,
                 "id": 10397802,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-09-09T20:48:29Z",
+                "open_issues": 2,
                 "owner": "fantasyland",
                 "repo": "fantasy-states",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2110,12 +3068,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":twisted_rightwards_arrows: A lazy implementation of the Fantasy Land Either type",
+                "homepage": "https://www.npmjs.com/package/lazy-either",
                 "id": 52914940,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-05-22T11:47:34Z",
+                "open_issues": 0,
                 "owner": "Risto-Stevcev",
                 "repo": "lazy-either",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "either",
+                  "fantasy-land",
+                  "lazy"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2126,12 +3093,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Category Theory for JavaScript",
+                "homepage": null,
                 "id": 44190288,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-07-20T14:20:12Z",
+                "open_issues": 1,
                 "owner": "jcouyang",
                 "repo": "cat.js",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2142,12 +3114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 53243083,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-05-30T15:23:01Z",
+                "open_issues": 11,
                 "owner": "futurize",
                 "repo": "future-io",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2158,12 +3135,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Painlessly enhance your JavaScript with monadic types",
+                "homepage": null,
                 "id": 43732514,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-10-22T06:39:53Z",
+                "open_issues": 7,
                 "owner": "bioball",
                 "repo": "mandolin",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2174,12 +3156,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":arrow_left: Do notation for Fantasy Land monad types",
+                "homepage": "https://www.npmjs.com/package/do-notation",
                 "id": 52926152,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-04-18T13:36:47Z",
+                "open_issues": 1,
                 "owner": "Risto-Stevcev",
                 "repo": "do-notation",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "do",
+                  "do-notation",
+                  "fantasy-land",
+                  "monad",
+                  "notation",
+                  "sugar"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2190,12 +3184,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Composable monads for functional async flow",
+                "homepage": null,
                 "id": 45359931,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-11-29T23:46:09Z",
+                "open_issues": 0,
                 "owner": "GeorgeSapkin",
                 "repo": "monady",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2206,12 +3205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"do\" monad syntax for JavaScript",
+                "homepage": null,
                 "id": 15303236,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2013-12-22T14:25:07Z",
+                "open_issues": 0,
                 "owner": "elclanrs",
                 "repo": "doM.js",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2222,12 +3226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "co-functional is a MIT licenced library that provides several functions for use with the co library.",
+                "homepage": null,
                 "id": 49544795,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-01-25T20:45:00Z",
+                "open_issues": 2,
                 "owner": "RaederDev",
                 "repo": "co-functional",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2238,12 +3247,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "do notation for javascript",
+                "homepage": null,
                 "id": 58154368,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-05-31T18:51:07Z",
+                "open_issues": 7,
                 "owner": "jwoudenberg",
                 "repo": "fantasy-do",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2254,12 +3268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Higher order functions, compositions and common operations for asynchronous programming in LiveScript.",
+                "homepage": null,
                 "id": 18454234,
                 "language": "LiveScript",
+                "license": null,
                 "last_commit": "2014-08-17T20:19:03Z",
+                "open_issues": 1,
                 "owner": "homam",
                 "repo": "async-ls",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2270,12 +3289,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lazy-loading wrapper for iterable items and common functional programming operations",
+                "homepage": null,
                 "id": 38230538,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-05-19T16:52:20Z",
+                "open_issues": 0,
                 "owner": "dvlsg",
                 "repo": "iterablejs",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2286,12 +3310,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run Futures in parallel",
+                "homepage": null,
                 "id": 52724373,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-03-05T11:37:10Z",
+                "open_issues": 1,
                 "owner": "futurize",
                 "repo": "parallel-future",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2302,12 +3331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use methods on ADTs whether or not they're defined",
+                "homepage": null,
                 "id": 57081218,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-04-25T22:49:20Z",
+                "open_issues": 0,
                 "owner": "rjmk",
                 "repo": "fantasy-derivations",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2318,12 +3352,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of free monads in JavaScript, based on Haskell's operational package",
+                "homepage": null,
                 "id": 61378069,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-12T20:00:29Z",
+                "open_issues": 0,
                 "owner": "phipsgabler",
                 "repo": "operajonal",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2334,12 +3373,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generic functional programming for JavaScript",
+                "homepage": null,
                 "id": 46839365,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-03-24T23:13:48Z",
+                "open_issues": 0,
                 "owner": "mwardle",
                 "repo": "lambdash",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2350,12 +3394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Akh continuation monad and monad transformer",
+                "homepage": null,
                 "id": 64031638,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-03T04:39:00Z",
+                "open_issues": 0,
                 "owner": "mattbierner",
                 "repo": "akh-cont",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2366,12 +3415,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Naive minimalistic functional programming library",
+                "homepage": null,
                 "id": 49796003,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-12-27T09:42:19Z",
+                "open_issues": 0,
                 "owner": "mickvangelderen",
                 "repo": "funko",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2382,12 +3436,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ez-dom is a library to manipulate the DOM using composition",
+                "homepage": null,
                 "id": 90883307,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-07-06T23:03:12Z",
+                "open_issues": 0,
                 "owner": "jonathandion",
                 "repo": "ez-dom",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "curry",
+                  "dom",
+                  "fp",
+                  "functionnal",
+                  "html",
+                  "javascript",
+                  "jquery-alternative"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2398,12 +3465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lazy functional JS library",
+                "homepage": null,
                 "id": 46913369,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-01-11T09:08:11Z",
+                "open_issues": 0,
                 "owner": "loosechainsaw",
                 "repo": "Slack",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2414,12 +3486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curried, functional operators.",
+                "homepage": null,
                 "id": 47237693,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-12-02T04:49:29Z",
+                "open_issues": 0,
                 "owner": "bttmly",
                 "repo": "fops",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2430,12 +3507,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 47455165,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-12-15T05:09:22Z",
+                "open_issues": 0,
                 "owner": "Hypercubed",
                 "repo": "florida",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2446,12 +3528,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tiny Tuple library for Client or Server",
+                "homepage": "http://avoidwork.github.io/tiny-tuple",
                 "id": 36380391,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2016-06-09T04:31:37Z",
+                "open_issues": 0,
                 "owner": "avoidwork",
                 "repo": "tiny-tuple",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -2466,12 +3553,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming. ",
+            "homepage": "http://livescript.net",
             "id": 3322086,
             "language": "LiveScript",
+            "license": "MIT",
             "last_commit": "2024-03-05T20:48:51Z",
+            "open_issues": 174,
             "owner": "gkz",
             "repo": "LiveScript",
-            "stars": 2371
+            "stars": 2371,
+            "topics": []
           },
           "title": "Livescript",
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -2485,12 +3577,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Frege is a Haskell for the JVM. It brings purely functional programing to the Java platform.",
+                "homepage": "https://github.com/Frege/frege/wiki/_pages",
                 "id": 5987163,
                 "language": "Frege",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-11T08:33:45Z",
+                "open_issues": 44,
                 "owner": "Frege",
                 "repo": "frege",
-                "stars": 3712
+                "stars": 3712,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2501,12 +3598,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional programming in Java",
+                "homepage": "www.functionaljava.org",
                 "id": 1033614,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-04-25T16:17:13Z",
+                "open_issues": 32,
                 "owner": "functionaljava",
                 "repo": "functionaljava",
-                "stars": 1620
+                "stars": 1620,
+                "topics": [
+                  "algebra",
+                  "algebraic-data-types",
+                  "effects",
+                  "functional-programming",
+                  "java",
+                  "monad",
+                  "monoid",
+                  "optics",
+                  "persistent-data-structure",
+                  "property-based-testing"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2517,12 +3630,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LINQ-style queries for Java 8",
+                "homepage": null,
                 "id": 17224765,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-08T05:00:45Z",
+                "open_issues": 36,
                 "owner": "my2iu",
                 "repo": "Jinq",
-                "stars": 661
+                "stars": 661,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2533,12 +3651,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A port of LINQ (Language-Integrated Query) to Java",
+                "homepage": null,
                 "id": 4082827,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-17T03:40:39Z",
+                "open_issues": 3,
                 "owner": "julianhyde",
                 "repo": "linq4j",
-                "stars": 379
+                "stars": 379,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2549,12 +3672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional programming language for JVM.",
+                "homepage": "http://mth.github.io/yeti/",
                 "id": 17965,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-18T19:59:01Z",
+                "open_issues": 12,
                 "owner": "mth",
                 "repo": "yeti",
-                "stars": 253
+                "stars": 253,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2565,12 +3693,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java 8 lambda experiment",
+                "homepage": null,
                 "id": 7633090,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-06-29T18:48:06Z",
+                "open_issues": 0,
                 "owner": "mariofusco",
                 "repo": "javaz",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -2588,12 +3721,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jank is the native Clojure dialect with seamless C++ interop.",
+                "homepage": "https://jank-lang.org",
                 "id": 21428070,
                 "language": "C++",
-                "last_commit": "2026-08-28T20:07:01Z",
+                "license": "MPL-2.0",
+                "last_commit": "2026-08-28T21:25:28Z",
+                "open_issues": 68,
                 "owner": "jank-lang",
                 "repo": "jank",
-                "stars": 3320
+                "stars": 3320,
+                "topics": [
+                  "clojure",
+                  "compiler",
+                  "cpp",
+                  "functional-programming",
+                  "jit",
+                  "language",
+                  "lisp",
+                  "llvm",
+                  "native",
+                  "programming-language"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2604,12 +3753,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Lux Programming Language",
+                "homepage": null,
                 "id": 35055585,
                 "language": "Emacs Lisp",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T05:38:52Z",
+                "open_issues": 0,
                 "owner": "LuxLang",
                 "repo": "lux",
-                "stars": 1740
+                "stars": 1740,
+                "topics": [
+                  "clojure",
+                  "functional-languages",
+                  "functional-programming",
+                  "haskell",
+                  "javascript",
+                  "jvm-languages",
+                  "language",
+                  "lisp",
+                  "lua",
+                  "macros",
+                  "programming-language",
+                  "python",
+                  "ruby",
+                  "types"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2620,12 +3789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Category Theory and Algebraic abstractions for Clojure and ClojureScript.",
+                "homepage": "http://funcool.github.io/cats/latest/",
                 "id": 20815029,
                 "language": "Clojure",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-03-20T19:06:08Z",
+                "open_issues": 33,
                 "owner": "funcool",
                 "repo": "cats",
-                "stars": 970
+                "stars": 970,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -2634,12 +3808,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The Clojure programming language",
+            "homepage": "https://clojure.org",
             "id": 747512,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-08-25T19:26:35Z",
+            "open_issues": 0,
             "owner": "clojure",
             "repo": "clojure",
-            "stars": 10956
+            "stars": 10956,
+            "topics": []
           },
           "title": "Clojure/ClojureScript",
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -2653,12 +3832,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ClojureScript framework for building user interfaces, leveraging React",
+                "homepage": "http://day8.github.io/re-frame/",
                 "id": 27587921,
                 "language": "Clojure",
+                "license": "MIT",
                 "last_commit": "2026-05-05T15:55:07Z",
+                "open_issues": 23,
                 "owner": "day8",
                 "repo": "re-frame",
-                "stars": 5542
+                "stars": 5542,
+                "topics": [
+                  "clojurescript",
+                  "re-frame",
+                  "react",
+                  "reagent",
+                  "spa"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -2667,12 +3857,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Clojure to JS compiler",
+            "homepage": null,
             "id": 2080922,
             "language": "Clojure",
+            "license": "EPL-1.0",
             "last_commit": "2026-08-10T01:25:46Z",
+            "open_issues": 7,
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9391
+            "stars": 9391,
+            "topics": []
           },
           "title": "ClojureScript",
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -2686,12 +3881,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Principled Functional Programming in Scala",
+                "homepage": null,
                 "id": 474633,
                 "language": "Scala",
-                "last_commit": "2026-08-28T09:02:05Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:17:01Z",
+                "open_issues": 155,
                 "owner": "scalaz",
                 "repo": "scalaz",
-                "stars": 4673
+                "stars": 4673,
+                "topics": [
+                  "functional-programming",
+                  "scala",
+                  "scala-native",
+                  "scalajs",
+                  "scalaz"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2702,12 +3908,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A modular functional UI language for Android",
+                "homepage": null,
                 "id": 11623326,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2017-09-30T01:39:09Z",
+                "open_issues": 26,
                 "owner": "xebia-functional",
                 "repo": "macroid",
-                "stars": 528
+                "stars": 528,
+                "topics": [
+                  "abstraction",
+                  "android",
+                  "composability",
+                  "dsl",
+                  "functional-programming",
+                  "gui",
+                  "scala-macros",
+                  "user-interface"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2718,12 +3938,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Functional type classes for Scala",
+                "homepage": null,
                 "id": 29621527,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2015-03-13T16:19:32Z",
+                "open_issues": 0,
                 "owner": "mpilquist",
                 "repo": "Structures",
-                "stars": 180
+                "stars": 180,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2734,12 +3959,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Boilerplate-free Functional Lenses for Scala 2.10",
+                "homepage": null,
                 "id": 6983232,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2014-08-12T03:38:06Z",
+                "open_issues": 2,
                 "owner": "akisaarinen",
                 "repo": "rillit",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2750,12 +3980,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight, modular, and extensible library for functional programming.",
+                "homepage": "http://typelevel.org/cats/",
                 "id": 56657204,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2017-09-03T02:25:31Z",
+                "open_issues": 0,
                 "owner": "non",
                 "repo": "cats",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -2764,12 +3999,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
+            "homepage": "https://www.scala-lang.org/",
             "id": 2888818,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T20:51:23Z",
+            "open_issues": 12,
             "owner": "scala",
             "repo": "scala",
-            "stars": 14570
+            "stars": 14570,
+            "topics": [
+              "functional-programming",
+              "jvm-languages",
+              "object-oriented-programming",
+              "scala",
+              "scala-compiler",
+              "scala-library",
+              "scala-programming-language"
+            ]
           },
           "title": "Scala",
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -2783,12 +4031,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional constructs for Kotlin",
+                "homepage": null,
                 "id": 9098277,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2019-12-19T10:53:13Z",
+                "open_issues": 11,
                 "owner": "MarioAriasC",
                 "repo": "funKTionale",
-                "stars": 914
+                "stars": 914,
+                "topics": [
+                  "functional-programming",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2799,12 +4055,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional style JSON parsing in Kotlin",
+                "homepage": null,
                 "id": 43631014,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2022-01-14T00:57:16Z",
+                "open_issues": 1,
                 "owner": "kittinunf",
                 "repo": "Forge",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "functional",
+                  "functional-programming",
+                  "json",
+                  "kotlin",
+                  "parser"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2815,12 +4082,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kotlin monads",
+                "homepage": null,
                 "id": 32874607,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2016-04-29T19:01:25Z",
+                "open_issues": 0,
                 "owner": "mplatvoet",
                 "repo": "funktional",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -2829,12 +4101,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The Kotlin Programming Language. ",
+            "homepage": "https://kotlinlang.org",
             "id": 3432266,
             "language": "Kotlin",
-            "last_commit": "2026-08-28T20:00:40Z",
+            "license": null,
+            "last_commit": "2026-08-29T01:16:03Z",
+            "open_issues": 402,
             "owner": "JetBrains",
             "repo": "kotlin",
-            "stars": 53361
+            "stars": 53361,
+            "topics": [
+              "compiler",
+              "gradle-plugin",
+              "intellij-plugin",
+              "kotlin",
+              "kotlin-library",
+              "maven-plugin",
+              "programming-language",
+              "wasm",
+              "webassembly"
+            ]
           },
           "title": "Kotlin",
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -2848,12 +4135,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extensions for F#",
+                "homepage": "https://fsprojects.github.io/FSharpPlus",
                 "id": 13643523,
                 "language": "F#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-12T08:52:07Z",
+                "open_issues": 66,
                 "owner": "fsprojects",
                 "repo": "FSharpPlus",
-                "stars": 941
+                "stars": 941,
+                "topics": [
+                  "arrow-functions",
+                  "computation-expressions",
+                  "extensions",
+                  "f-sharp",
+                  "generic-functions",
+                  "lenses",
+                  "monad-transformers"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2864,12 +4164,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional programming and other utilities from the original \"fsharpx\" project",
+                "homepage": "https://fsprojects.github.io/FSharpx.Extras/",
                 "id": 977333,
                 "language": "F#",
+                "license": "Unlicense",
                 "last_commit": "2025-12-20T13:22:24Z",
+                "open_issues": 10,
                 "owner": "fsprojects",
                 "repo": "FSharpx.Extras",
-                "stars": 697
+                "stars": 697,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2880,12 +4187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight F#/C# library for efficient functional-style pipelines on streams of data.",
+                "homepage": "http://nessos.github.io/Streams/",
                 "id": 21133313,
                 "language": "F#",
+                "license": "NOASSERTION",
                 "last_commit": "2020-05-22T17:00:30Z",
+                "open_issues": 12,
                 "owner": "nessos",
                 "repo": "Streams",
-                "stars": 384
+                "stars": 384,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2896,12 +4208,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Freya Web Stack - Meta-Package",
+                "homepage": "https://freya.io",
                 "id": 14531506,
                 "language": "PowerShell",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-22T15:17:35Z",
+                "open_issues": 39,
                 "owner": "xyncro",
                 "repo": "freya",
-                "stars": 328
+                "stars": 328,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2912,12 +4229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSON for F#",
+                "homepage": "https://xyncro.tech/chiron",
                 "id": 22986161,
                 "language": "F#",
+                "license": "MIT",
                 "last_commit": "2018-10-10T02:53:26Z",
+                "open_issues": 28,
                 "owner": "xyncro",
                 "repo": "chiron",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2928,12 +4250,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.juniper-lang.org/",
                 "id": 197983736,
                 "language": "F#",
+                "license": "MIT",
                 "last_commit": "2024-11-16T04:23:56Z",
+                "open_issues": 8,
                 "owner": "calebh",
                 "repo": "Juniper",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "arduino",
+                  "compiler",
+                  "fsharp"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2944,12 +4275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graphs for F#",
+                "homepage": "https://xyncro.tech/hekate",
                 "id": 30031186,
                 "language": "F#",
+                "license": "MIT",
                 "last_commit": "2018-10-09T13:58:25Z",
+                "open_issues": 0,
                 "owner": "xyncro",
                 "repo": "hekate",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2960,12 +4296,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The project has moved to a separate organization. This project provides redirect for old Fable web site.",
+                "homepage": null,
                 "id": 65852716,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-10-10T02:23:04Z",
+                "open_issues": 1,
                 "owner": "fsprojects-archive",
                 "repo": "zzarchive-Fable",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2976,12 +4317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lw is a general-purpose statically-typed functional-first language with cutting-edge features.",
+                "homepage": null,
                 "id": 46415601,
                 "language": "F#",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-25T08:13:38Z",
+                "open_issues": 0,
                 "owner": "alvisespano",
                 "repo": "Lw",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -2992,12 +4338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimalistic pure functional programming language.",
+                "homepage": null,
                 "id": 45542610,
                 "language": "F#",
+                "license": null,
                 "last_commit": "2016-05-19T10:45:30Z",
+                "open_issues": 0,
                 "owner": "jonathanvdc",
                 "repo": "micron",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3008,12 +4359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proof of concept demo implementing a React like declarative UI API for F# on top of RX",
+                "homepage": null,
                 "id": 61015381,
                 "language": "F#",
+                "license": "MIT",
                 "last_commit": "2016-08-02T16:08:09Z",
+                "open_issues": 0,
                 "owner": "bordoley",
                 "repo": "ReactFSharp",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -3022,12 +4378,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Please file issues or pull requests here: https://github.com/dotnet/fsharp",
+            "homepage": "https://fsharp.org",
             "id": 1162709,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2022-11-06T15:40:32Z",
+            "open_issues": 1,
             "owner": "fsharp",
             "repo": "fsharp",
-            "stars": 2157
+            "stars": 2157,
+            "topics": []
           },
           "title": "F#",
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -3041,12 +4402,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C# pure functional programming framework - come and get declarative!",
+                "homepage": null,
                 "id": 26732453,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-29T08:30:02Z",
+                "open_issues": 15,
                 "owner": "louthy",
                 "repo": "language-ext",
-                "stars": 7084
+                "stars": 7084,
+                "topics": [
+                  "ad-hoc-polymorphism",
+                  "applicative",
+                  "bcl",
+                  "c-sharp",
+                  "f-sharp",
+                  "functional-languages",
+                  "functional-programming",
+                  "functor",
+                  "higher-kinded-types",
+                  "immutable-collections",
+                  "immutable-types",
+                  "language-ext",
+                  "lenses",
+                  "monad",
+                  "monad-transformers",
+                  "monads",
+                  "monoid",
+                  "records",
+                  "semigroup",
+                  "structural-equality"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3057,12 +4444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional programming in C#.",
+                "homepage": null,
                 "id": 23812604,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-11-20T14:08:31Z",
+                "open_issues": 22,
                 "owner": "MewsSystems",
                 "repo": "FuncSharp",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3073,12 +4465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A probabilistic programming framework for C#",
+                "homepage": null,
                 "id": 56176627,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2019-10-27T01:05:27Z",
+                "open_issues": 2,
                 "owner": "joashc",
                 "repo": "csharp-probability-monad",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3089,12 +4486,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Practical functional C# port from Ramda.js",
+                "homepage": null,
                 "id": 66217128,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2018-04-04T18:18:14Z",
+                "open_issues": 0,
                 "owner": "sagifogel",
                 "repo": "Ramda.NET",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "csharp",
+                  "functional",
+                  "ramda",
+                  "ramdajs"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3105,12 +4512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of monads for C# that provide some functional programming flavor.",
+                "homepage": null,
                 "id": 47891294,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2016-05-21T18:30:49Z",
+                "open_issues": 0,
                 "owner": "kallanreed",
                 "repo": "monadsharp",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -3119,12 +4531,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+            "homepage": "https://docs.microsoft.com/dotnet/csharp/roslyn-sdk/",
             "id": 29078997,
             "language": "C#",
-            "last_commit": "2026-08-28T17:50:53Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:09:06Z",
+            "open_issues": 6294,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20631
+            "stars": 20631,
+            "topics": [
+              "csharp",
+              "hacktoberfest",
+              "roslyn",
+              "visual-basic",
+              "visual-studio"
+            ]
           },
           "title": "C#",
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -3138,12 +4561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional JSON parsing library for Swift",
+                "homepage": "https://thoughtbot.com",
                 "id": 24349480,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-09-24T16:03:36Z",
+                "open_issues": 10,
                 "owner": "thoughtbot",
                 "repo": "Argo",
-                "stars": 3471
+                "stars": 3471,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3154,12 +4582,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional programming in Swift",
+                "homepage": null,
                 "id": 20423545,
                 "language": "Swift",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-06-30T07:38:54Z",
+                "open_issues": 12,
                 "owner": "typelift",
                 "repo": "Swiftz",
-                "stars": 3318
+                "stars": 3318,
+                "topics": [
+                  "functional-programming",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3170,12 +4606,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple and lightweight Functional Reactive Coding in Swift for the rest of us",
+                "homepage": null,
                 "id": 35783905,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-04-23T15:48:10Z",
+                "open_issues": 8,
                 "owner": "JensRavens",
                 "repo": "Interstellar",
-                "stars": 1078
+                "stars": 1078,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3186,12 +4627,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift µframework of simple functional programming tools",
+                "homepage": null,
                 "id": 27406500,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-07-19T13:21:25Z",
+                "open_issues": 3,
                 "owner": "robrix",
                 "repo": "Prelude",
-                "stars": 410
+                "stars": 410,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3202,12 +4648,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools, Haskell's standard library, and other things.",
+                "homepage": null,
                 "id": 38200790,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2016-10-22T22:18:02Z",
+                "open_issues": 1,
                 "owner": "oisdk",
                 "repo": "SwiftSequence",
-                "stars": 374
+                "stars": 374,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3218,12 +4669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LINQ for Swift - Swift Integrated Query",
+                "homepage": null,
                 "id": 21183104,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-05-03T06:59:01Z",
+                "open_issues": 2,
                 "owner": "slazyk",
                 "repo": "SINQ",
-                "stars": 268
+                "stars": 268,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3234,12 +4690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional data types and functions for any project",
+                "homepage": null,
                 "id": 29660580,
                 "language": "Swift",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-11-21T10:29:40Z",
+                "open_issues": 4,
                 "owner": "typelift",
                 "repo": "Swiftx",
-                "stars": 221
+                "stars": 221,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3250,12 +4711,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional Concurrency Primitives",
+                "homepage": null,
                 "id": 24282811,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2019-10-05T15:15:30Z",
+                "open_issues": 5,
                 "owner": "typelift",
                 "repo": "Concurrent",
-                "stars": 208
+                "stars": 208,
+                "topics": [
+                  "concurrency",
+                  "lock",
+                  "software-transactional-memory",
+                  "synchronization"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3266,12 +4737,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional programming tools and experiments in Swift.",
+                "homepage": "http://brynbellomy.github.io/Funky/",
                 "id": 29276235,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2016-01-16T07:32:30Z",
+                "open_issues": 0,
                 "owner": "brynbellomy",
                 "repo": "Funky",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3282,12 +4758,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 935170670,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-02-19T02:42:24Z",
+                "open_issues": 0,
                 "owner": "LlamaKit",
                 "repo": "LlamaKit",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -3305,12 +4786,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional standard library for Python.",
+                "homepage": "http://toolz.readthedocs.org/",
                 "id": 12799539,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-01T18:01:22Z",
+                "open_issues": 138,
                 "owner": "pytoolz",
                 "repo": "toolz",
-                "stars": 5152
+                "stars": 5152,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3321,12 +4807,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fancy and practical functional tools",
+                "homepage": null,
                 "id": 6198326,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-17T01:46:47Z",
+                "open_issues": 15,
                 "owner": "Suor",
                 "repo": "funcy",
-                "stars": 3510
+                "stars": 3510,
+                "topics": [
+                  "functional-programming",
+                  "python",
+                  "utilities"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3337,12 +4832,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional programming in Python: implementation of missing features to enjoy FP",
+                "homepage": null,
                 "id": 7589332,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-30T14:08:21Z",
+                "open_issues": 33,
                 "owner": "kachayev",
                 "repo": "fn.py",
-                "stars": 3367
+                "stars": 3367,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3353,12 +4853,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional stuff for Python",
+                "homepage": null,
                 "id": 61354848,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-07-30T08:33:06Z",
+                "open_issues": 1,
                 "owner": "igrishaev",
                 "repo": "f",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "clojure",
+                  "collections",
+                  "functional-programming",
+                  "monad",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3369,12 +4880,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High abstract python library for functional programming. Contains algebraic data structures known (or unknown) from Haskell or Scala.",
+                "homepage": "https://pymonet.readthedocs.io/en/latest/?badge=latest",
                 "id": 94121545,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-13T17:28:37Z",
+                "open_issues": 4,
                 "owner": "przemyslawjanpietrzak",
                 "repo": "pyMonet",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "functional-programming",
+                  "monads",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -3392,12 +4912,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Primitives for functional programming in PHP",
+                "homepage": null,
                 "id": 1785452,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-03-21T19:34:35Z",
+                "open_issues": 16,
                 "owner": "lstrojny",
                 "repo": "functional-php",
-                "stars": 1984
+                "stars": 1984,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3408,12 +4933,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PHP Integrated Query, a real LINQ library for PHP",
+                "homepage": "http://timetoogo.github.io/Pinq/",
                 "id": 18230680,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-05-03T14:53:29Z",
+                "open_issues": 3,
                 "owner": "TimeToogo",
                 "repo": "Pinq",
-                "stars": 462
+                "stars": 462,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3424,12 +4954,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet Another LINQ to Objects for PHP [Simplified BSD]",
+                "homepage": "https://yalinqo.crazysnep.ru/",
                 "id": 4312864,
                 "language": "PHP",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-10-19T00:45:53Z",
+                "open_issues": 13,
                 "owner": "Athari",
                 "repo": "YaLinqo",
-                "stars": 453
+                "stars": 453,
+                "topics": [
+                  "collection",
+                  "functional",
+                  "functional-programming",
+                  "generator",
+                  "generator-function",
+                  "iterator",
+                  "iterator-library",
+                  "library",
+                  "linq",
+                  "linq-to-objects",
+                  "php",
+                  "query",
+                  "statistics",
+                  "underscore"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3440,12 +4990,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Non-Standard PHP Library - functional primitives toolbox and more",
+                "homepage": "http://nspl.readthedocs.org",
                 "id": 47998458,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-05-30T19:24:50Z",
+                "open_issues": 6,
                 "owner": "ihor",
                 "repo": "NSPL",
-                "stars": 374
+                "stars": 374,
+                "topics": [
+                  "functional",
+                  "lazy",
+                  "lodash",
+                  "php",
+                  "ramda",
+                  "underscore"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3456,12 +5018,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Practical Functional Programming in PHP",
+                "homepage": null,
                 "id": 48879610,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2018-06-10T14:50:55Z",
+                "open_issues": 6,
                 "owner": "kapolos",
                 "repo": "pramda",
-                "stars": 244
+                "stars": 244,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3472,12 +5039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "`LINQ to Object` inspired DSL for PHP",
+                "homepage": null,
                 "id": 7405132,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-06-30T09:37:05Z",
+                "open_issues": 6,
                 "owner": "akanehara",
                 "repo": "ginq",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3488,12 +5060,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional library for PHP",
+                "homepage": null,
                 "id": 73966927,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2018-03-16T15:01:15Z",
+                "open_issues": 1,
                 "owner": "sergiors",
                 "repo": "prelude",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "functional-programming",
+                  "monad",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -3502,12 +5083,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The PHP Interpreter",
+            "homepage": "https://www.php.net",
             "id": 1903522,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T16:25:56Z",
+            "open_issues": 2013,
             "owner": "php",
             "repo": "php-src",
-            "stars": 40326
+            "stars": 40331,
+            "topics": []
           },
           "title": "PHP",
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -3521,12 +5107,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An attempt at porting Elm's incredibly useful, purely functional std graphics modules.",
+                "homepage": null,
                 "id": 33178697,
                 "language": "Rust",
+                "license": "BSD-3-Clause",
                 "last_commit": "2015-12-22T09:37:39Z",
+                "open_issues": 10,
                 "owner": "mitchmindtree",
                 "repo": "elmesque",
-                "stars": 146
+                "stars": 146,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -3535,12 +5126,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Empowering everyone to build reliable and efficient software.",
+            "homepage": "https://www.rust-lang.org",
             "id": 724712,
             "language": "Rust",
-            "last_commit": "2026-08-28T19:59:00Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:58:38Z",
+            "open_issues": 12599,
             "owner": "rust-lang",
             "repo": "rust",
-            "stars": 116321
+            "stars": 116330,
+            "topics": [
+              "compiler",
+              "language",
+              "rust"
+            ]
           },
           "title": "Rust",
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -3554,12 +5154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I was gonna maintain this package, but then I got high",
+                "homepage": null,
                 "id": 15177051,
                 "language": "Julia",
+                "license": "NOASSERTION",
                 "last_commit": "2021-06-01T15:25:55Z",
+                "open_issues": 45,
                 "owner": "MikeInnes",
                 "repo": "Lazy.jl",
-                "stars": 485
+                "stars": 485,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3570,12 +5175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional and persistent data structures for Julia",
+                "homepage": null,
                 "id": 9282467,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2025-11-24T17:38:20Z",
+                "open_issues": 18,
                 "owner": "JuliaCollections",
                 "repo": "FunctionalCollections.jl",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -3584,12 +5194,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The Julia Programming Language",
+            "homepage": "https://julialang.org/",
             "id": 1644196,
             "language": "Julia",
-            "last_commit": "2026-08-28T19:52:34Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:52:48Z",
+            "open_issues": 4593,
             "owner": "JuliaLang",
             "repo": "julia",
-            "stars": 49039
+            "stars": 49042,
+            "topics": [
+              "hacktoberfest",
+              "hpc",
+              "julia",
+              "julia-language",
+              "julialang",
+              "machine-learning",
+              "numerical",
+              "programming-language",
+              "science",
+              "scientific"
+            ]
           },
           "title": "Julia",
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -3603,12 +5229,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET LINQ capabilities in Go",
+                "homepage": "https://godoc.org/github.com/ahmetb/go-linq",
                 "id": 15300997,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T04:19:01Z",
+                "open_issues": 4,
                 "owner": "ahmetb",
                 "repo": "go-linq",
-                "stars": 3765
+                "stars": 3766,
+                "topics": [
+                  "generic-functions",
+                  "go",
+                  "linq"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -3617,12 +5252,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The Go programming language",
+            "homepage": "https://go.dev",
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-28T19:10:03Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T21:42:41Z",
+            "open_issues": 10082,
             "owner": "golang",
             "repo": "go",
-            "stars": 136558
+            "stars": 136563,
+            "topics": [
+              "go",
+              "golang",
+              "language",
+              "programming-language"
+            ]
           },
           "title": "Go",
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -3636,12 +5281,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":boom::computer::boom: A data-parallel functional programming language",
+                "homepage": "http://futhark-lang.org",
                 "id": 7960131,
                 "language": "Haskell",
+                "license": "ISC",
                 "last_commit": "2026-08-28T12:01:12Z",
+                "open_issues": 81,
                 "owner": "diku-dk",
                 "repo": "futhark",
-                "stars": 2793
+                "stars": 2793,
+                "topics": [
+                  "boom",
+                  "compiler",
+                  "cuda",
+                  "futhark",
+                  "gpgpu",
+                  "gpu",
+                  "hacktoberfest",
+                  "hpc",
+                  "language",
+                  "opencl"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3652,12 +5313,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Eta Programming Language, a dialect of Haskell on the JVM",
+                "homepage": "https://eta-lang.org",
                 "id": 55689010,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-07-31T17:14:19Z",
+                "open_issues": 242,
                 "owner": "typelead",
                 "repo": "eta",
-                "stars": 2634
+                "stars": 2634,
+                "topics": [
+                  "eta",
+                  "functional-programming",
+                  "haskell",
+                  "jvm"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             },
@@ -3668,12 +5339,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse.",
+                "homepage": "https://reflex-frp.org",
                 "id": 26408057,
                 "language": "Haskell",
-                "last_commit": "2026-08-14T22:12:24Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-28T21:02:07Z",
+                "open_issues": 86,
                 "owner": "reflex-frp",
                 "repo": "reflex",
-                "stars": 1115
+                "stars": 1115,
+                "topics": [
+                  "frp",
+                  "functional-reactive-programming",
+                  "haskell",
+                  "reactive",
+                  "reflex-frp"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -3688,12 +5370,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Simple from zero to scale",
+            "homepage": "https://elixir-lang.org/",
             "id": 1234714,
             "language": "Elixir",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:54:14Z",
+            "open_issues": 30,
             "owner": "elixir-lang",
             "repo": "elixir",
-            "stars": 26617
+            "stars": 26617,
+            "topics": []
           },
           "title": "Elixir",
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -3707,12 +5394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lisp Flavoured Erlang (LFE)",
+                "homepage": null,
                 "id": 44108,
                 "language": "Erlang",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T21:46:32Z",
+                "open_issues": 28,
                 "owner": "lfe",
                 "repo": "lfe",
-                "stars": 2453
+                "stars": 2454,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -3730,12 +5422,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.",
+                "homepage": "https://rescript-lang.org",
                 "id": 49159983,
                 "language": "OCaml",
-                "last_commit": "2026-08-28T19:41:52Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T20:19:48Z",
+                "open_issues": 166,
                 "owner": "rescript-lang",
                 "repo": "rescript",
-                "stars": 7434
+                "stars": 7434,
+                "topics": [
+                  "altjs",
+                  "compiler",
+                  "javascript",
+                  "rescript"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -3753,12 +5455,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WIP implementation of a Haskell-like Lisp in Racket",
+                "homepage": "https://lexi-lambda.github.io/hackett/",
                 "id": 70437071,
                 "language": "Racket",
+                "license": "ISC",
                 "last_commit": "2024-04-14T16:40:55Z",
+                "open_issues": 36,
                 "owner": "lexi-lambda",
                 "repo": "hackett",
-                "stars": 1205
+                "stars": 1205,
+                "topics": [
+                  "racket"
+                ]
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
             }
@@ -3780,12 +5489,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Koka language compiler and interpreter",
+            "homepage": "http://koka-lang.org",
             "id": 75982258,
             "language": "Koka",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-15T16:25:40Z",
+            "open_issues": 293,
             "owner": "koka-lang",
             "repo": "koka",
-            "stars": 4048
+            "stars": 4048,
+            "topics": [
+              "algebraic-effects",
+              "effect-handlers",
+              "handler",
+              "haskell",
+              "koka"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -3796,12 +5516,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+            "homepage": "https://wiki.portal.chalmers.se/agda/pmwiki.php",
             "id": 40411471,
             "language": "Haskell",
-            "last_commit": "2026-08-28T19:53:56Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:19:56Z",
+            "open_issues": 1036,
             "owner": "agda",
             "repo": "agda",
-            "stars": 2920
+            "stars": 2919,
+            "topics": [
+              "agda",
+              "dependent-types",
+              "programming-language",
+              "proof-assistant",
+              "type-theory"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         },
@@ -3812,12 +5543,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Super Kawaii Dependently Typed Programming Language",
+            "homepage": null,
             "id": 40069618,
             "language": "Haskell",
+            "license": "GPL-3.0",
             "last_commit": "2018-07-12T13:00:17Z",
+            "open_issues": 0,
             "owner": "ditto",
             "repo": "ditto",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "dependent-types",
+              "programming-language",
+              "proof-assistant",
+              "type-theory"
+            ]
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
         }
@@ -3826,15 +5567,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:12:00.938Z",
+    "last_updated": "2026-08-29T04:19:08.357Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Yet another resource for collecting articles, videos etc. regarding functional programming",
+      "homepage": null,
       "id": 46194363,
       "language": null,
+      "license": null,
       "last_commit": "2024-01-16T08:10:48Z",
+      "open_issues": 13,
       "owner": "xgrommx",
       "repo": "awesome-functional-programming",
-      "stars": 3533
+      "stars": 3533,
+      "topics": [
+        "awesome-functional-programming",
+        "awesome-list",
+        "awsome",
+        "f-algebras",
+        "functional-languages",
+        "recursion",
+        "recursion-schemes"
+      ]
     },
     "original_repository_sha": "319c4e26c9bbc776d1e72e12431ffc8574a39acf",
     "enhanced_repository": "enhansome/enhansome-functional-programming",

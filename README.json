@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "h4cc",
             "repo": "awesome-elixir",
-            "stars": 13169,
+            "stars": 13168,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -97,7 +97,7 @@
             "open_issues": 17,
             "owner": "krispo",
             "repo": "awesome-haskell",
-            "stars": 3278,
+            "stars": 3279,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -391,7 +391,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184936,
+            "stars": 184945,
             "topics": [
               "async",
               "book",
@@ -426,7 +426,7 @@
             "open_issues": 27,
             "owner": "hemanth",
             "repo": "functional-programming-jargon",
-            "stars": 18714,
+            "stars": 18717,
             "topics": [
               "awesome-list",
               "education",
@@ -454,7 +454,7 @@
             "open_issues": 13,
             "owner": "bitemyapp",
             "repo": "learnhaskell",
-            "stars": 8033,
+            "stars": 8032,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -475,7 +475,7 @@
             "open_issues": 1,
             "owner": "stoeffel",
             "repo": "awesome-fp-js",
-            "stars": 6038,
+            "stars": 6039,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -496,7 +496,7 @@
             "open_issues": 130,
             "owner": "fpinscala",
             "repo": "fpinscala",
-            "stars": 5862,
+            "stars": 5863,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -517,7 +517,7 @@
             "open_issues": 31,
             "owner": "sdiehl",
             "repo": "write-you-a-haskell",
-            "stars": 3480,
+            "stars": 3479,
             "topics": [
               "book",
               "compiler",
@@ -554,7 +554,7 @@
             "open_issues": 17,
             "owner": "krispo",
             "repo": "awesome-haskell",
-            "stars": 3278,
+            "stars": 3279,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -596,7 +596,7 @@
             "open_issues": 10,
             "owner": "sharkdp",
             "repo": "cube-composer",
-            "stars": 2048,
+            "stars": 2047,
             "topics": [
               "browser-game",
               "functional-programming",
@@ -1222,7 +1222,7 @@
                 "open_issues": 7,
                 "owner": "caolan",
                 "repo": "async",
-                "stars": 28128,
+                "stars": 28127,
                 "topics": [
                   "async",
                   "callbacks",
@@ -1407,7 +1407,7 @@
                 "open_issues": 8,
                 "owner": "yortus",
                 "repo": "asyncawait",
-                "stars": 1895,
+                "stars": 1894,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
@@ -1560,7 +1560,7 @@
                 "open_issues": 21,
                 "owner": "ramda",
                 "repo": "ramda-fantasy",
-                "stars": 1499,
+                "stars": 1498,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
@@ -1912,7 +1912,7 @@
                 "open_issues": 5,
                 "owner": "DrBoolean",
                 "repo": "immutable-ext",
-                "stars": 489,
+                "stars": 488,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
@@ -3829,7 +3829,7 @@
             "id": 747512,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-15T16:18:52Z",
+            "last_commit": "2026-09-23T13:24:28Z",
             "open_issues": 0,
             "owner": "clojure",
             "repo": "clojure",
@@ -4021,7 +4021,7 @@
             "language": "Scala",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T07:18:01Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "scala",
             "repo": "scala",
             "stars": 14562,
@@ -4122,11 +4122,11 @@
             "id": 3432266,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-09-22T13:22:54Z",
-            "open_issues": 444,
+            "last_commit": "2026-09-23T13:33:17Z",
+            "open_issues": 431,
             "owner": "JetBrains",
             "repo": "kotlin",
-            "stars": 53444,
+            "stars": 53449,
             "topics": [
               "compiler",
               "gradle-plugin",
@@ -4552,11 +4552,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-22T11:38:07Z",
-            "open_issues": 6673,
+            "last_commit": "2026-09-23T13:05:15Z",
+            "open_issues": 6668,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20682,
+            "stars": 20684,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -4832,7 +4832,7 @@
                 "open_issues": 9,
                 "owner": "Suor",
                 "repo": "funcy",
-                "stars": 3510,
+                "stars": 3511,
                 "topics": [
                   "functional-programming",
                   "python",
@@ -5104,11 +5104,11 @@
             "id": 1903522,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T13:17:43Z",
-            "open_issues": 2080,
+            "last_commit": "2026-09-23T09:55:08Z",
+            "open_issues": 2087,
             "owner": "php",
             "repo": "php-src",
-            "stars": 40401,
+            "stars": 40399,
             "topics": []
           },
           "title": "PHP",
@@ -5147,11 +5147,11 @@
             "id": 724712,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T11:15:56Z",
-            "open_issues": 12598,
+            "last_commit": "2026-09-23T13:27:56Z",
+            "open_issues": 12590,
             "owner": "rust-lang",
             "repo": "rust",
-            "stars": 119035,
+            "stars": 119069,
             "topics": [
               "compiler",
               "language",
@@ -5215,11 +5215,11 @@
             "id": 1644196,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-09-22T13:24:07Z",
-            "open_issues": 4683,
+            "last_commit": "2026-09-23T12:14:16Z",
+            "open_issues": 4688,
             "owner": "JuliaLang",
             "repo": "julia",
-            "stars": 49137,
+            "stars": 49142,
             "topics": [
               "hacktoberfest",
               "hpc",
@@ -5273,11 +5273,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T09:17:43Z",
-            "open_issues": 10177,
+            "last_commit": "2026-09-22T22:24:27Z",
+            "open_issues": 10212,
             "owner": "golang",
             "repo": "go",
-            "stars": 138937,
+            "stars": 138962,
             "topics": [
               "go",
               "golang",
@@ -5302,11 +5302,11 @@
                 "id": 7960131,
                 "language": "Haskell",
                 "license": "ISC",
-                "last_commit": "2026-09-22T12:18:18Z",
-                "open_issues": 78,
+                "last_commit": "2026-09-23T07:59:57Z",
+                "open_issues": 80,
                 "owner": "diku-dk",
                 "repo": "futhark",
-                "stars": 2801,
+                "stars": 2802,
                 "topics": [
                   "boom",
                   "compiler",
@@ -5391,11 +5391,11 @@
             "id": 1234714,
             "language": "Elixir",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T10:35:59Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-23T07:34:27Z",
+            "open_issues": 40,
             "owner": "elixir-lang",
             "repo": "elixir",
-            "stars": 26670,
+            "stars": 26672,
             "topics": []
           },
           "title": "Elixir",
@@ -5443,11 +5443,11 @@
                 "id": 49159983,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T12:58:13Z",
+                "last_commit": "2026-09-23T12:22:19Z",
                 "open_issues": 157,
                 "owner": "rescript-lang",
                 "repo": "rescript",
-                "stars": 7459,
+                "stars": 7460,
                 "topics": [
                   "altjs",
                   "compiler",
@@ -5514,7 +5514,7 @@
             "open_issues": 294,
             "owner": "koka-lang",
             "repo": "koka",
-            "stars": 4070,
+            "stars": 4069,
             "topics": [
               "algebraic-effects",
               "effect-handlers",
@@ -5537,8 +5537,8 @@
             "id": 40411471,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T07:52:23Z",
-            "open_issues": 1054,
+            "last_commit": "2026-09-23T08:58:44Z",
+            "open_issues": 1053,
             "owner": "agda",
             "repo": "agda",
             "stars": 2931,
@@ -5583,7 +5583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T13:24:11.874Z",
+    "last_updated": "2026-09-23T13:38:03.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yet another resource for collecting articles, videos etc. regarding functional programming",

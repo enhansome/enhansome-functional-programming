@@ -439,7 +439,7 @@
 * [Awesome Scala - A community driven list of useful Scala libraries, frameworks and software](https://github.com/lauris/awesome-scala) ⭐ 9,245 | 🐛 15 | 🌐 Python | 📅 2024-09-20
 * [Awesome Elm - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list](https://github.com/isRuslan/awesome-elm) ⭐ 3,687 | 🐛 4 | 📅 2026-07-21
 * [Awesome Haskell - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line](https://github.com/krispo/awesome-haskell) ⭐ 3,279 | 🐛 17 | 🌐 Python | 📅 2026-08-03
-* [Awesome Clojure - A curated list of awesome Clojure libraries and resources](https://github.com/razum2um/awesome-clojure) ⭐ 2,845 | 🐛 0 | 🌐 Clojure | 📅 2026-09-15
+* [Awesome Clojure - A curated list of awesome Clojure libraries and resources](https://github.com/razum2um/awesome-clojure) ⭐ 2,846 | 🐛 0 | 🌐 Clojure | 📅 2026-09-15
 * [Awesome Functional Python - A curated list of awesome things related to functional programming in Python](https://github.com/sfermigier/awesome-functional-python) ⭐ 2,559 | 🐛 8 | 📅 2026-06-23
 * [Awesome F# - A curated list of awesome F# frameworks, libraries, software and resources](https://github.com/fsprojects/awesome-fsharp) ⭐ 1,432 | 🐛 6 | 🌐 F# | 📅 2026-03-21
 * [Awesome PureScript - A curation of awesome PureScript libraries, resources and shiny things](https://github.com/passy/awesome-purescript) ⭐ 483 | 🐛 9 | 📅 2022-11-30
@@ -450,8 +450,8 @@
 
 ## Books
 
-* [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,822 | 🐛 92 | 🌐 JavaScript | 📅 2024-09-17
-* [A book about functional programming in JavaScript](https://github.com/getify/functional-light-js) ⭐ 16,730 | 🐛 27 | 🌐 JavaScript | 📅 2023-12-26
+* [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide) ⭐ 23,821 | 🐛 92 | 🌐 JavaScript | 📅 2024-09-17
+* [A book about functional programming in JavaScript](https://github.com/getify/functional-light-js) ⭐ 16,729 | 🐛 27 | 🌐 JavaScript | 📅 2023-12-26
 * [Functional Javascript Workshop (console based tutorial)](https://github.com/timoxley/functional-javascript-workshop) ⭐ 2,034 | 🐛 83 | 🌐 JavaScript | 📅 2020-10-08
 * [Mostly adequate guide to FP (in javascript) - russian version](https://github.com/MostlyAdequate/mostly-adequate-guide-ru) ⭐ 1,227 | 🐛 6 | 🌐 JavaScript | 📅 2023-05-04
 * [Functional Reactive Programming](https://www.manning.com/books/functional-reactive-programming)
@@ -506,8 +506,8 @@
 
 ## Resources
 
-* [A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,947 | 🐛 2 | 📅 2026-02-15
-* [functional-programming-jargon - Jargon from the functional programming world in simple terms](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,718 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-14
+* [A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,954 | 🐛 2 | 📅 2026-02-15
+* [functional-programming-jargon - Jargon from the functional programming world in simple terms](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,723 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-14
 * [Learn Haskell](https://github.com/bitemyapp/learnhaskell) ⭐ 8,032 | 🐛 13 | 🌐 Makefile | 📅 2026-07-20
 * [A curated list of awesome functional programming stuff in js](https://github.com/stoeffel/awesome-fp-js) ⭐ 6,039 | 🐛 1 | 📅 2026-01-15
 * [Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"](https://github.com/fpinscala/fpinscala) ⭐ 5,864 | 🐛 130 | 🌐 Scala | 📅 2024-12-11
@@ -517,7 +517,7 @@
 * [A puzzle game written on purescript](https://github.com/sharkdp/cube-composer) ⭐ 2,047 | 🐛 10 | 🌐 PureScript | 📅 2022-12-08
 * [functional-javascript-workshop - a functional javascript workshop. No libraries required (i.e. no underscore), just ES5](https://github.com/timoxley/functional-javascript-workshop) ⭐ 2,034 | 🐛 83 | 🌐 JavaScript | 📅 2020-10-08
 * [functional-frontend-architecture - A functional frontend framework.](https://github.com/paldepind/functional-frontend-architecture) ⭐ 1,434 | 🐛 9 | 🌐 JavaScript | 📅 2019-07-02
-* [Simple examples to help you understand ES6](https://github.com/sgaurav/understanding-es6) ⭐ 1,115 | 🐛 9 | 🌐 JavaScript | 📅 2016-12-15
+* [Simple examples to help you understand ES6](https://github.com/sgaurav/understanding-es6) ⭐ 1,114 | 🐛 9 | 🌐 JavaScript | 📅 2016-12-15
 * [An overview of Elm syntax and features](https://github.com/izdi/elm-cheat-sheet) ⭐ 948 | 🐛 2 | 🌐 Elm | 📅 2018-04-27
 * [Visual programming meets Haskell](https://github.com/viskell/viskell) ⭐ 678 | 🐛 22 | 🌐 Java | 📅 2017-04-19
 * [FP101x - Functional Programming MOOC 2015 Content Repository](https://github.com/fptudelft/FP101x-Content-2015) ⭐ 515 | 🐛 0 | 🌐 Haskell | 📅 2015-12-20
@@ -527,7 +527,7 @@
 * [Functional Programming Resources In JavaScript](https://github.com/busypeoples/functional-programming-javascript) ⭐ 302 | 🐛 2 | 📅 2020-10-01
 * [js-funcional - A Cookbook for writing FP in JavaScript using ES6](https://github.com/js-functional/js-funcional) ⭐ 253 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-07
 * [Community driven Elm guide for JS people](https://github.com/elm-guides/elm-for-js) ⭐ 227 | 🐛 3 | 📅 2019-08-30
-* [Total functional programming (ESFP)](https://github.com/mietek/total-functional-programming) ⭐ 189 | 🐛 0 | 📅 2019-02-15
+* [Total functional programming (ESFP)](https://github.com/mietek/total-functional-programming) ⭐ 190 | 🐛 0 | 📅 2019-02-15
 * [Dependent Object Types (DOT)](https://github.com/namin/dot) ⭐ 163 | 🐛 0 | 📅 2016-09-08
 * [djinn - Generate Haskell code from a type](https://github.com/augustss/djinn) ⭐ 152 | 🐛 3 | 🌐 Haskell | 📅 2025-02-21
 * [The official supporting materials repository for LambdaConf 2015](https://github.com/degoes-consulting/lambdaconf-2015) ⭐ 90 | 🐛 1 | 🌐 JavaScript | 📅 2015-05-29
@@ -772,8 +772,8 @@
 
 ***
 
-* [**async** - Async utilities for node and the browser](https://github.com/caolan/async) ⭐ 28,128 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-21
-* [**fantasy-land** - Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land) ⭐ 10,238 | 🐛 36 | 🌐 JavaScript | 📅 2024-11-10
+* [**async** - Async utilities for node and the browser](https://github.com/caolan/async) ⭐ 28,126 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-21
+* [**fantasy-land** - Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land) ⭐ 10,239 | 🐛 36 | 🌐 JavaScript | 📅 2024-11-10
 * [**este** - Dev stack and starter kit for functional and universal React web apps](https://github.com/este/este) ⚠️ Archived
 * [**Sugar** - A Javascript library for working with native objects](https://github.com/andrewplummer/Sugar) ⭐ 4,504 | 🐛 95 | 🌐 JavaScript | 📅 2024-06-13
 * [**sanctuary** - Refuge from unsafe JavaScript](https://github.com/plaid/sanctuary) ⭐ 3,050 | 🐛 36 | 🌐 JavaScript | 📅 2024-11-10 [official site](http://sanctuary.js.org)
@@ -913,7 +913,7 @@
 
 ***
 
-* [**jank** - A statically typed functional programming language](https://github.com/jeaye/jank) ⭐ 3,333 | 🐛 76 | 🌐 C++ | 📅 2026-09-21
+* [**jank** - A statically typed functional programming language](https://github.com/jeaye/jank) ⭐ 3,334 | 🐛 76 | 🌐 C++ | 📅 2026-09-21
 * [**lux** - The Lux Programming Language](https://github.com/LuxLang/lux) ⭐ 1,740 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-09-21
 * [**cats** - Category Theory and Algebraic abstractions for Clojure and ClojureScript](https://github.com/funcool/cats) ⭐ 970 | 🐛 33 | 🌐 Clojure | 📅 2025-03-20
 
@@ -923,7 +923,7 @@
 
 * [**re-frame** - A Reagent Framework For Writing SPAs, in Clojurescript](https://github.com/Day8/re-frame) ⭐ 5,540 | 🐛 23 | 🌐 Clojure | 📅 2026-05-05
 
-### [Scala](https://github.com/scala/scala) ⭐ 14,562 | 🐛 14 | 🌐 Scala | 📅 2026-09-24
+### [Scala](https://github.com/scala/scala) ⭐ 14,563 | 🐛 14 | 🌐 Scala | 📅 2026-09-24
 
 ***
 
@@ -933,7 +933,7 @@
 * [**rillit** - Boilerplate-free Functional Lenses for Scala 2.10](https://github.com/akisaarinen/rillit) ⭐ 91 | 🐛 2 | 🌐 Scala | 📅 2014-08-12
 * [**cats** - Lightweight, modular, and extensible library for functional programming](https://github.com/non/cats) ⭐ 29 | 🐛 0 | 🌐 Scala | 📅 2017-09-03
 
-### [Kotlin](https://github.com/JetBrains/kotlin) ⭐ 53,452 | 🐛 427 | 🌐 Kotlin | 📅 2026-09-24
+### [Kotlin](https://github.com/JetBrains/kotlin) ⭐ 53,457 | 🐛 436 | 🌐 Kotlin | 📅 2026-09-25
 
 ***
 
@@ -959,7 +959,7 @@
 * [**micron** - A minimalistic pure functional programming language](https://github.com/jonathanvdc/micron) ⭐ 2 | 🐛 0 | 🌐 F# | 📅 2016-05-19
 * [**ReactFSharp** - Proof of concept demo implementing a React like declarative UI API for F# on top of RX](https://github.com/bordoley/ReactFSharp) ⭐ 0 | 🐛 0 | 🌐 F# | 📅 2016-08-02
 
-### [C#](https://github.com/dotnet/roslyn) ⭐ 20,688 | 🐛 6,683 | 🌐 C# | 📅 2026-09-24
+### [C#](https://github.com/dotnet/roslyn) ⭐ 20,688 | 🐛 6,684 | 🌐 C# | 📅 2026-09-25
 
 ***
 
@@ -992,14 +992,14 @@
 
 ***
 
-* [**toolz** - A functional standard library for Python](https://github.com/pytoolz/toolz) ⭐ 5,158 | 🐛 135 | 🌐 Python | 📅 2026-09-18
+* [**toolz** - A functional standard library for Python](https://github.com/pytoolz/toolz) ⭐ 5,159 | 🐛 135 | 🌐 Python | 📅 2026-09-18
 * [**funcy** - A fancy and practical functional tools](https://github.com/Suor/funcy) ⭐ 3,511 | 🐛 9 | 🌐 Python | 📅 2026-09-19
 * [**fn.py** - Functional programming in Python: implementation of missing features to enjoy FP](https://github.com/kachayev/fn.py) ⭐ 3,367 | 🐛 33 | 🌐 Python | 📅 2022-08-30
 * [**f** - Functional stuff for Python](https://github.com/igrishaev/f) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2016-07-30
 * [**pyMonet** - High abstract library for functional programming. Contains algebraic data structures known from Haskell or Scala](https://github.com/przemyslawjanpietrzak/pyMonet) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-04-13
 * [**Coconut** - Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
 
-### [PHP](https://github.com/php/php-src) ⭐ 40,402 | 🐛 2,095 | 🌐 C | 📅 2026-09-24
+### [PHP](https://github.com/php/php-src) ⭐ 40,403 | 🐛 2,094 | 🌐 C | 📅 2026-09-25
 
 ***
 
@@ -1011,20 +1011,20 @@
 * [**ginq** - LINQ to Object inspired DSL for PHP](https://github.com/akanehara/ginq) ⭐ 192 | 🐛 6 | 🌐 PHP | 📅 2022-06-30
 * [**prelude** - Functional library for PHP](https://github.com/sergiors/prelude) ⭐ 48 | 🐛 1 | 🌐 PHP | 📅 2018-03-16
 
-### [Rust](https://github.com/rust-lang/rust) ⭐ 119,099 | 🐛 12,594 | 🌐 Rust | 📅 2026-09-24
+### [Rust](https://github.com/rust-lang/rust) ⭐ 119,156 | 🐛 12,599 | 🌐 Rust | 📅 2026-09-25
 
 ***
 
 * [**elmesque** - An attempt at porting Elm's incredibly useful, purely functional std graphics modules](https://github.com/mitchmindtree/elmesque) ⭐ 146 | 🐛 10 | 🌐 Rust | 📅 2015-12-22
 
-### [Julia](https://github.com/JuliaLang/julia) ⭐ 49,149 | 🐛 4,689 | 🌐 Julia | 📅 2026-09-24
+### [Julia](https://github.com/JuliaLang/julia) ⭐ 49,153 | 🐛 4,675 | 🌐 Julia | 📅 2026-09-25
 
 ***
 
 * [**Lazy.jl** - Functional programming for Julia](https://github.com/one-more-minute/Lazy.jl) ⭐ 485 | 🐛 45 | 🌐 Julia | 📅 2021-06-01
 * [**FunctionalCollections.jl** - Functional and persistent data structures for Julia](https://github.com/JuliaLang/FunctionalCollections.jl) ⭐ 126 | 🐛 18 | 🌐 Julia | 📅 2025-11-24
 
-### [Go](https://github.com/golang/go) ⭐ 138,969 | 🐛 10,217 | 🌐 Go | 📅 2026-09-24
+### [Go](https://github.com/golang/go) ⭐ 138,995 | 🐛 10,236 | 🌐 Go | 📅 2026-09-24
 
 ***
 
@@ -1035,12 +1035,12 @@
 
 ***
 
-* [**futhark** - A data-parallel functional programming language](https://github.com/HIPERFIT/futhark) ⭐ 2,803 | 🐛 78 | 🌐 Haskell | 📅 2026-09-23
+* [**futhark** - A data-parallel functional programming language](https://github.com/HIPERFIT/futhark) ⭐ 2,804 | 🐛 78 | 🌐 Haskell | 📅 2026-09-24
 * [**ghcvm** - A Haskell to JVM compiler that supports GHC Haskell](https://github.com/rahulmutt/ghcvm) ⭐ 2,636 | 🐛 242 | 🌐 Haskell | 📅 2022-07-31
 * [**reflex** - Practical Functional Reactive Programming](https://github.com/reflex-frp/reflex) ⭐ 1,116 | 🐛 86 | 🌐 Haskell | 📅 2026-08-29
 * [**ivorylang** - is an eDSL for safe systems programming. You can think of Ivory as a safer C, embedded in Haskell](http://ivorylang.org/index.html)
 
-### [Elixir](https://github.com/elixir-lang/elixir) ⭐ 26,677 | 🐛 40 | 🌐 Elixir | 📅 2026-09-24
+### [Elixir](https://github.com/elixir-lang/elixir) ⭐ 26,678 | 🐛 38 | 🌐 Elixir | 📅 2026-09-25
 
 ***
 
@@ -1054,7 +1054,7 @@
 
 ***
 
-* [**bucklescript** - A backend for the OCaml compiler which emits JavaScript](https://github.com/bloomberg/bucklescript) ⭐ 7,461 | 🐛 156 | 🌐 OCaml | 📅 2026-09-24
+* [**bucklescript** - A backend for the OCaml compiler which emits JavaScript](https://github.com/bloomberg/bucklescript) ⭐ 7,462 | 🐛 158 | 🌐 OCaml | 📅 2026-09-25
 
 ### [Racket](https://racket-lang.org/)
 
@@ -1064,8 +1064,8 @@
 
 ## Languages
 
-* [Koka](https://github.com/koka-lang/koka) ⭐ 4,071 | 🐛 295 | 🌐 Koka | 📅 2026-09-18 - A function-oriented language with effect inference
-* [Agda](https://github.com/agda/agda) ⭐ 2,932 | 🐛 1,057 | 🌐 Haskell | 📅 2026-09-24 - A dependently typed functional programming language
+* [Koka](https://github.com/koka-lang/koka) ⭐ 4,074 | 🐛 295 | 🌐 Koka | 📅 2026-09-18 - A function-oriented language with effect inference
+* [Agda](https://github.com/agda/agda) ⭐ 2,933 | 🐛 1,059 | 🌐 Haskell | 📅 2026-09-25 - A dependently typed functional programming language
 * [Ditto](https://github.com/ditto/ditto) ⭐ 178 | 🐛 0 | 🌐 Haskell | 📅 2018-07-12 - A super kawaii dependently typed language for you!
 * [Lean](https://leanprover.github.io/) - Lean is a functional programming language that makes it easy to write correct and maintainable code.
 * [Pyret](http://www.pyret.org/) - A programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming
@@ -1077,4 +1077,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

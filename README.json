@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Awesome Elixir - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things",
-          "description": null,
+          "description": "h4cc/awesome-elixir",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "h4cc",
             "repo": "awesome-elixir",
-            "stars": 13168,
+            "stars": 13167,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Awesome Scala - A community driven list of useful Scala libraries, frameworks and software",
-          "description": null,
+          "description": "lauris/awesome-scala",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "Awesome Elm - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list",
-          "description": null,
+          "description": "sporto/awesome-elm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -84,7 +84,7 @@
         {
           "node_type": "item",
           "title": "Awesome Haskell - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line",
-          "description": null,
+          "description": "krispo/awesome-haskell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -105,7 +105,7 @@
         {
           "node_type": "item",
           "title": "Awesome Clojure - A curated list of awesome Clojure libraries and resources",
-          "description": null,
+          "description": "razum2um/awesome-clojure",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -130,7 +130,7 @@
         {
           "node_type": "item",
           "title": "Awesome Functional Python - A curated list of awesome things related to functional programming in Python",
-          "description": null,
+          "description": "sfermigier/awesome-functional-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -139,7 +139,7 @@
             "id": 76450431,
             "language": null,
             "license": null,
-            "last_commit": "2026-06-23T05:10:14Z",
+            "last_commit": "2026-10-02T17:24:22Z",
             "open_issues": 8,
             "owner": "sfermigier",
             "repo": "awesome-functional-python",
@@ -155,7 +155,7 @@
         {
           "node_type": "item",
           "title": "Awesome F# - A curated list of awesome F# frameworks, libraries, software and resources",
-          "description": null,
+          "description": "fsprojects/awesome-fsharp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -181,7 +181,7 @@
         {
           "node_type": "item",
           "title": "Awesome PureScript - A curation of awesome PureScript libraries, resources and shiny things",
-          "description": null,
+          "description": "passy/awesome-purescript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -207,7 +207,7 @@
         {
           "node_type": "item",
           "title": "Awesome Haskell - A curated list of awesome Haskell frameworks, libraries and software",
-          "description": null,
+          "description": "uhub/awesome-haskell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -235,7 +235,7 @@
         {
           "node_type": "item",
           "title": "Awesome Coq - A curated list of awesome Coq frameworks, libraries and software",
-          "description": null,
+          "description": "uhub/awesome-coq",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -271,7 +271,7 @@
         {
           "node_type": "item",
           "title": "Mostly adequate guide to FP (in javascript)",
-          "description": null,
+          "description": "MostlyAdequate/mostly-adequate-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -297,7 +297,7 @@
         {
           "node_type": "item",
           "title": "A book about functional programming in JavaScript",
-          "description": null,
+          "description": "getify/Functional-Light-JS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -310,7 +310,7 @@
             "open_issues": 27,
             "owner": "getify",
             "repo": "Functional-Light-JS",
-            "stars": 16729,
+            "stars": 16728,
             "topics": [
               "book",
               "education",
@@ -325,7 +325,7 @@
         {
           "node_type": "item",
           "title": "Functional Javascript Workshop (console based tutorial)",
-          "description": null,
+          "description": "timoxley/functional-javascript-workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -346,7 +346,7 @@
         {
           "node_type": "item",
           "title": "Mostly adequate guide to FP (in javascript) - russian version",
-          "description": null,
+          "description": "MostlyAdequate/mostly-adequate-guide-ru",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -378,7 +378,7 @@
         {
           "node_type": "item",
           "title": "A book series on JavaScript",
-          "description": null,
+          "description": "getify/You-Dont-Know-JS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -391,7 +391,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185011,
+            "stars": 185009,
             "topics": [
               "async",
               "book",
@@ -413,7 +413,7 @@
         {
           "node_type": "item",
           "title": "functional-programming-jargon - Jargon from the functional programming world in simple terms",
-          "description": null,
+          "description": "hemanth/functional-programming-jargon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -441,7 +441,7 @@
         {
           "node_type": "item",
           "title": "Learn Haskell",
-          "description": null,
+          "description": "bitemyapp/learnhaskell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -454,7 +454,7 @@
             "open_issues": 13,
             "owner": "bitemyapp",
             "repo": "learnhaskell",
-            "stars": 8031,
+            "stars": 8029,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -462,7 +462,7 @@
         {
           "node_type": "item",
           "title": "A curated list of awesome functional programming stuff in js",
-          "description": null,
+          "description": "stoeffel/awesome-fp-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -483,7 +483,7 @@
         {
           "node_type": "item",
           "title": "Code, exercises, answers, and hints to go along with the book \"Functional Programming in Scala\"",
-          "description": null,
+          "description": "fpinscala/fpinscala",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -504,7 +504,7 @@
         {
           "node_type": "item",
           "title": "Building a modern functional compiler from first principles",
-          "description": null,
+          "description": "sdiehl/write-you-a-haskell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -541,7 +541,7 @@
         {
           "node_type": "item",
           "title": "Awesome Haskell",
-          "description": null,
+          "description": "krispo/awesome-haskell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -562,7 +562,7 @@
         {
           "node_type": "item",
           "title": "Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python",
-          "description": null,
+          "description": "caiorss/Functional-Programming",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -583,7 +583,7 @@
         {
           "node_type": "item",
           "title": "A puzzle game written on purescript",
-          "description": null,
+          "description": "sharkdp/cube-composer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -611,7 +611,7 @@
         {
           "node_type": "item",
           "title": "functional-javascript-workshop - a functional javascript workshop. No libraries required (i.e. no underscore), just ES5",
-          "description": null,
+          "description": "timoxley/functional-javascript-workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -632,7 +632,7 @@
         {
           "node_type": "item",
           "title": "functional-frontend-architecture - A functional frontend framework.",
-          "description": null,
+          "description": "paldepind/functional-frontend-architecture",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -653,7 +653,7 @@
         {
           "node_type": "item",
           "title": "Simple examples to help you understand ES6",
-          "description": null,
+          "description": "sgaurav/understanding-es6",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -674,7 +674,7 @@
         {
           "node_type": "item",
           "title": "An overview of Elm syntax and features",
-          "description": null,
+          "description": "izdi/elm-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -702,7 +702,7 @@
         {
           "node_type": "item",
           "title": "Visual programming meets Haskell",
-          "description": null,
+          "description": "viskell/viskell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -715,7 +715,7 @@
             "open_issues": 22,
             "owner": "viskell",
             "repo": "viskell",
-            "stars": 678,
+            "stars": 675,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -723,7 +723,7 @@
         {
           "node_type": "item",
           "title": "FP101x - Functional Programming MOOC 2015 Content Repository",
-          "description": null,
+          "description": "fptudelft/FP101x-Content-2015",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -744,7 +744,7 @@
         {
           "node_type": "item",
           "title": "Code Samples Functional Programming in JavaScript, Manning 2016",
-          "description": null,
+          "description": "luijar/functional-programming-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -765,7 +765,7 @@
         {
           "node_type": "item",
           "title": "A list of functional javascript resources",
-          "description": null,
+          "description": "jkup/functional-javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -786,7 +786,7 @@
         {
           "node_type": "item",
           "title": "Source code for blog post Journey from procedural to reactive JavaScript with stops",
-          "description": null,
+          "description": "bahmutov/javascript-journey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -811,7 +811,7 @@
         {
           "node_type": "item",
           "title": "Functional Programming Resources In JavaScript",
-          "description": null,
+          "description": "busypeoples/functional-programming-javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -832,7 +832,7 @@
         {
           "node_type": "item",
           "title": "js-funcional - A Cookbook for writing FP in JavaScript using ES6",
-          "description": null,
+          "description": "js-functional/js-funcional",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -853,7 +853,7 @@
         {
           "node_type": "item",
           "title": "Community driven Elm guide for JS people",
-          "description": null,
+          "description": "elm-guides/elm-for-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -874,7 +874,7 @@
         {
           "node_type": "item",
           "title": "Total functional programming (ESFP)",
-          "description": null,
+          "description": "mietek/total-fp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -895,7 +895,7 @@
         {
           "node_type": "item",
           "title": "Dependent Object Types (DOT)",
-          "description": null,
+          "description": "namin/dot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -923,7 +923,7 @@
         {
           "node_type": "item",
           "title": "djinn - Generate Haskell code from a type",
-          "description": null,
+          "description": "augustss/djinn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -944,7 +944,7 @@
         {
           "node_type": "item",
           "title": "The official supporting materials repository for LambdaConf 2015",
-          "description": null,
+          "description": "degoes-consulting/lambdaconf-2015",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -965,7 +965,7 @@
         {
           "node_type": "item",
           "title": "Formalization of the Dependent Object Types (DOT) calculus",
-          "description": null,
+          "description": "samuelgruetter/dot-calculus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -986,7 +986,7 @@
         {
           "node_type": "item",
           "title": "Collection of examples on places where Elm is different to Haskell",
-          "description": null,
+          "description": "eeue56/haskell-to-elm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1007,7 +1007,7 @@
         {
           "node_type": "item",
           "title": "Archive the best resources surrounding the functional programming paradigm for Javascript developers",
-          "description": null,
+          "description": "radiovisual/functional-programming-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1033,7 +1033,7 @@
         {
           "node_type": "item",
           "title": "Kickstart your web development with Elm",
-          "description": null,
+          "description": "eeue56/elm-for-web-developers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1054,7 +1054,7 @@
         {
           "node_type": "item",
           "title": "cor - The Language of the Web",
-          "description": null,
+          "description": "yosbelms/cor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1075,7 +1075,7 @@
         {
           "node_type": "item",
           "title": "Pragmatic functional programming in JavaScript - Workshop material",
-          "description": null,
+          "description": "staltz/fp-js-workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1096,7 +1096,7 @@
         {
           "node_type": "item",
           "title": "λ List of resources related to Functional Programming in JS",
-          "description": null,
+          "description": "codekult/adventures-of-lambda-in-JS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1117,7 +1117,7 @@
         {
           "node_type": "item",
           "title": "Haskell monads for learning purposes in javascript",
-          "description": null,
+          "description": "raimohanska/Monads",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1138,7 +1138,7 @@
         {
           "node_type": "item",
           "title": "JS-monads-stable",
-          "description": null,
+          "description": "dschalk/monads-for-functional-javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1159,7 +1159,7 @@
         {
           "node_type": "item",
           "title": "Answers to the exercises from https://github.com/MostlyAdequate/mostly-adequate-guide",
-          "description": null,
+          "description": "gypsydave5/mostly-adequate-functional-answers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1180,7 +1180,7 @@
         {
           "node_type": "item",
           "title": "Explorations in Functional Land",
-          "description": null,
+          "description": "svenschmidt75/Functional",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1209,7 +1209,7 @@
             {
               "node_type": "item",
               "title": "async - Async utilities for node and the browser",
-              "description": null,
+              "description": "caolan/async",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1222,7 +1222,7 @@
                 "open_issues": 22,
                 "owner": "caolan",
                 "repo": "async",
-                "stars": 28120,
+                "stars": 28119,
                 "topics": [
                   "async",
                   "callbacks",
@@ -1234,7 +1234,7 @@
             {
               "node_type": "item",
               "title": "fantasy-land - Specification for interoperability of common algebraic structures in JavaScript",
-              "description": null,
+              "description": "fantasyland/fantasy-land",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1247,7 +1247,7 @@
                 "open_issues": 37,
                 "owner": "fantasyland",
                 "repo": "fantasy-land",
-                "stars": 10240,
+                "stars": 10241,
                 "topics": [
                   "fantasy-land",
                   "functional",
@@ -1260,7 +1260,7 @@
             {
               "node_type": "item",
               "title": "este - Dev stack and starter kit for functional and universal React web apps",
-              "description": null,
+              "description": "este/este",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1289,7 +1289,7 @@
             {
               "node_type": "item",
               "title": "Sugar - A Javascript library for working with native objects",
-              "description": null,
+              "description": "andrewplummer/Sugar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1340,7 +1340,7 @@
             {
               "node_type": "item",
               "title": "Fluture - A complete Fantasy Land compatible Future library",
-              "description": null,
+              "description": "fluture-js/Fluture",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1373,7 +1373,7 @@
             {
               "node_type": "item",
               "title": "js-csp - Communicating sequential processes for Javascript (like Clojurescript core.async, or Go)",
-              "description": null,
+              "description": "js-csp/js-csp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1394,7 +1394,7 @@
             {
               "node_type": "item",
               "title": "asyncawait - Callback heaven for Node.js with async/await",
-              "description": null,
+              "description": "yortus/asyncawait",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1415,7 +1415,7 @@
             {
               "node_type": "item",
               "title": "linq - linq.js - LINQ for JavaScript library",
-              "description": null,
+              "description": "mihaifm/linq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1439,7 +1439,7 @@
             {
               "node_type": "item",
               "title": "transducers.js - A small library for generalized transformation of data (inspired by Clojure's transducers)",
-              "description": null,
+              "description": "jlongster/transducers.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1460,7 +1460,7 @@
             {
               "node_type": "item",
               "title": "purify - Functional programming library for TypeScript focusing on ADTs",
-              "description": null,
+              "description": "gigobyte/purify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1494,7 +1494,7 @@
             {
               "node_type": "item",
               "title": "transducers-js - A high performance Transducers implementation for JavaScript",
-              "description": null,
+              "description": "cognitect-labs/transducers-js",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1515,7 +1515,7 @@
             {
               "node_type": "item",
               "title": "Crocks - A collection of well known Monadic Containers for your utter enjoyment.",
-              "description": null,
+              "description": "evilsoft/crocks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1547,7 +1547,7 @@
             {
               "node_type": "item",
               "title": "ramda-fantasy - Fantasy-Land compatible types for easy integration with Ramda.js",
-              "description": null,
+              "description": "ramda/ramda-fantasy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1568,7 +1568,7 @@
             {
               "node_type": "item",
               "title": "trine - A utility library for modern JavaScript",
-              "description": null,
+              "description": "jussi-kalliokoski/trine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1589,7 +1589,7 @@
             {
               "node_type": "item",
               "title": "partial.lenses - Partial lenses is a comprehensive, high-performance optics library for JavaScript",
-              "description": null,
+              "description": "calmm-js/partial.lenses",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1621,7 +1621,7 @@
             {
               "node_type": "item",
               "title": "linq.ts - LinQ for TypeScript",
-              "description": null,
+              "description": "kutyel/linq.ts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1652,7 +1652,7 @@
             {
               "node_type": "item",
               "title": "streamjs - Lazy Object Streaming Pipeline for JavaScript",
-              "description": null,
+              "description": "winterbe/streamjs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1678,7 +1678,7 @@
             {
               "node_type": "item",
               "title": "1-liners - Functional tools that couldn’t be simpler",
-              "description": null,
+              "description": "1-liners/1-liners",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1699,7 +1699,7 @@
             {
               "node_type": "item",
               "title": "static-land - Specification for common algebraic types in JavaScript based on Fantasy Land",
-              "description": null,
+              "description": "fantasyland/static-land",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1732,7 +1732,7 @@
             {
               "node_type": "item",
               "title": "contra - Asynchronous flow control with a functional taste to it",
-              "description": null,
+              "description": "bevacqua/contra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1753,7 +1753,7 @@
             {
               "node_type": "item",
               "title": "daggy - Library for creating tagged constructors",
-              "description": null,
+              "description": "fantasyland/daggy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1774,7 +1774,7 @@
             {
               "node_type": "item",
               "title": "neo-async - Neo-Async is thought to be used as a drop-in replacement for Async, it almost fully covers its functionality and runs faster",
-              "description": null,
+              "description": "suguru03/neo-async",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1800,7 +1800,7 @@
             {
               "node_type": "item",
               "title": "fkit - A functional programming toolkit for JavaScript",
-              "description": null,
+              "description": "nullobject/fkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1827,7 +1827,7 @@
             {
               "node_type": "item",
               "title": "lodash-fp - lodash with auto-curried iteratee-first data-last methods",
-              "description": null,
+              "description": "lodash-archive/lodash-fp",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1848,7 +1848,7 @@
             {
               "node_type": "item",
               "title": "kneden - Transpile ES7 async/await to vanilla ES6 Promise chains: a Babel plugin",
-              "description": null,
+              "description": "babel/kneden",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1873,7 +1873,7 @@
             {
               "node_type": "item",
               "title": "async-to-gen - Transform async functions to generator functions with speed and simplicity",
-              "description": null,
+              "description": "leebyron/async-to-gen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1899,7 +1899,7 @@
             {
               "node_type": "item",
               "title": "immutable-ext - fantasyland extensions for immutablejs",
-              "description": null,
+              "description": "DrBoolean/immutable-ext",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1912,7 +1912,7 @@
                 "open_issues": 5,
                 "owner": "DrBoolean",
                 "repo": "immutable-ext",
-                "stars": 488,
+                "stars": 487,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
@@ -1920,7 +1920,7 @@
             {
               "node_type": "item",
               "title": "union-type - A small JavaScript library for defining and using union types",
-              "description": null,
+              "description": "paldepind/union-type",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1941,7 +1941,7 @@
             {
               "node_type": "item",
               "title": "pointfree-fantasy - Point free wrappers for fantasy land",
-              "description": null,
+              "description": "DrBoolean/pointfree-fantasy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1962,7 +1962,7 @@
             {
               "node_type": "item",
               "title": "flow-static-land - Implementation of common algebraic types in JavaScript + Flow",
-              "description": null,
+              "description": "gcanti/flow-static-land",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1983,7 +1983,7 @@
             {
               "node_type": "item",
               "title": "TsMonad - Little monad library designed for TypeScript",
-              "description": null,
+              "description": "cbowdon/TsMonad",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2010,7 +2010,7 @@
             {
               "node_type": "item",
               "title": "nimble - A really tiny functional JavaScript and async flow-control library",
-              "description": null,
+              "description": "caolan/nimble",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2031,7 +2031,7 @@
             {
               "node_type": "item",
               "title": "async-csp - CSP style channels using ES7 async/await",
-              "description": null,
+              "description": "dvlsg/async-csp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2052,7 +2052,7 @@
             {
               "node_type": "item",
               "title": "scour - Traverse objects and arrays with ease",
-              "description": null,
+              "description": "rstacruz/scour",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2073,7 +2073,7 @@
             {
               "node_type": "item",
               "title": "nodent - Asynchronous Javascript language extensions",
-              "description": null,
+              "description": "MatAtBread/nodent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2094,7 +2094,7 @@
             {
               "node_type": "item",
               "title": "f - Implementing native versions of Haskell functions according to JavaScript ES6 standards",
-              "description": null,
+              "description": "casualjavascript/haskell-in-es6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2115,7 +2115,7 @@
             {
               "node_type": "item",
               "title": "creed - Sophisticated and functionally-minded async with advanced features: coroutines, promises, ES2015 iterables, fantasy-land",
-              "description": null,
+              "description": "briancavalier/creed",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2143,7 +2143,7 @@
             {
               "node_type": "item",
               "title": "sanctuary-type-classes - Standard library for Fantasy Land",
-              "description": null,
+              "description": "sanctuary-js/sanctuary-type-classes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2167,7 +2167,7 @@
             {
               "node_type": "item",
               "title": "kewler - Simple functional and immutable color manipulation library",
-              "description": null,
+              "description": "adriantoine/kewler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2188,7 +2188,7 @@
             {
               "node_type": "item",
               "title": "adt.js - Algebraic data types for Javascript",
-              "description": null,
+              "description": "natefaubion/adt.js",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2209,7 +2209,7 @@
             {
               "node_type": "item",
               "title": "lenses - Composable kmett style lenses",
-              "description": null,
+              "description": "DrBoolean/lenses",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2230,7 +2230,7 @@
             {
               "node_type": "item",
               "title": "ramda-lens - Lens library built on ramda",
-              "description": null,
+              "description": "ramda/ramda-lens",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2251,7 +2251,7 @@
             {
               "node_type": "item",
               "title": "maryamyriameliamurphies.js - A library of Haskell-style morphisms ported to ES2015 JavaScript using Babel",
-              "description": null,
+              "description": "sjsyrek/maryamyriameliamurphies.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2264,7 +2264,7 @@
                 "open_issues": 19,
                 "owner": "sjsyrek",
                 "repo": "maryamyriameliamurphies.js",
-                "stars": 182,
+                "stars": 181,
                 "topics": [
                   "es2015",
                   "functional-programming",
@@ -2278,7 +2278,7 @@
             {
               "node_type": "item",
               "title": "burrido - Do-notation for JavaScript",
-              "description": null,
+              "description": "pelotom/burrido",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2303,7 +2303,7 @@
             {
               "node_type": "item",
               "title": "freeky - Free monad Collection",
-              "description": null,
+              "description": "DrBoolean/freeky",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2324,7 +2324,7 @@
             {
               "node_type": "item",
               "title": "futurize - Turn callback-style functions or promises into futures",
-              "description": null,
+              "description": "futurize/futurize",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2345,7 +2345,7 @@
             {
               "node_type": "item",
               "title": "csp - CSP/Actor/Transducer Experiments",
-              "description": null,
+              "description": "tgvashworth/csp",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2366,7 +2366,7 @@
             {
               "node_type": "item",
               "title": "immutagen - A library for simulating immutable generators in JavaScript",
-              "description": null,
+              "description": "pelotom/immutagen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2390,7 +2390,7 @@
             {
               "node_type": "item",
               "title": "fantasy-lenses - Composable, immutable getters and setters",
-              "description": null,
+              "description": "fantasyland/fantasy-lenses",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2411,7 +2411,7 @@
             {
               "node_type": "item",
               "title": "barely-functional - tiny (2.7kb) functional programming library using native es5/6 operations",
-              "description": null,
+              "description": "cullophid/barely-functional",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2432,7 +2432,7 @@
             {
               "node_type": "item",
               "title": "imlazy - Functional, declarative, immutable and lazy as you like",
-              "description": null,
+              "description": "benji6/imlazy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2464,7 +2464,7 @@
             {
               "node_type": "item",
               "title": "fantasy-birds - port of the haskell package Data.Aviary.Birds. Every thing for your combinatory needs",
-              "description": null,
+              "description": "fantasyland/fantasy-birds",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2485,7 +2485,7 @@
             {
               "node_type": "item",
               "title": "transduce - JavaScript transducers",
-              "description": null,
+              "description": "transduce/transduce",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2506,7 +2506,7 @@
             {
               "node_type": "item",
               "title": "jabz - Powerful and practical abstractions for JavaScript and TypeScript. Functors, Monads, Traversables and all that jazz",
-              "description": null,
+              "description": "funkia/jabz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2527,7 +2527,7 @@
             {
               "node_type": "item",
               "title": "underarm - Transducers Inspired by Underscore",
-              "description": null,
+              "description": "kevinbeaty/underarm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2548,7 +2548,7 @@
             {
               "node_type": "item",
               "title": "optics - This library is an implementation of profunctor optics using JS, heavily influenced by the PureScript Profunctor Lenses and Kmett's Lens libraries.",
-              "description": null,
+              "description": "flunc/optics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2569,7 +2569,7 @@
             {
               "node_type": "item",
               "title": "culljs - Functional javascript for adults - no cushions included",
-              "description": null,
+              "description": "culljs/culljs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2590,7 +2590,7 @@
             {
               "node_type": "item",
               "title": "udon - Practical functional programming in JavaScript",
-              "description": null,
+              "description": "beastaugh/udon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2611,7 +2611,7 @@
             {
               "node_type": "item",
               "title": "fantasydo - Do-notation for javascript fantasy land",
-              "description": null,
+              "description": "russellmcc/fantasydo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2632,7 +2632,7 @@
             {
               "node_type": "item",
               "title": "it.js - Chainable object-oriented functional combinators",
-              "description": null,
+              "description": "dtinth/it.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2656,7 +2656,7 @@
             {
               "node_type": "item",
               "title": "Idealist - Functional HTTP micro-framework",
-              "description": null,
+              "description": "fluture-js/momi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2682,7 +2682,7 @@
             {
               "node_type": "item",
               "title": "free - Combination of a free applicative functor and free monad",
-              "description": null,
+              "description": "safareli/free",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2703,7 +2703,7 @@
             {
               "node_type": "item",
               "title": "medium - CSP-style channel library using ES7 async/await keywords",
-              "description": null,
+              "description": "bbarr/medium",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2724,7 +2724,7 @@
             {
               "node_type": "item",
               "title": "chained-promise - Functional programming tools for recurring promises",
-              "description": null,
+              "description": "google/chained-promise",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2745,7 +2745,7 @@
             {
               "node_type": "item",
               "title": "switch-fn - Write a functional switch statement",
-              "description": null,
+              "description": "ajoslin/switch-fn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2766,7 +2766,7 @@
             {
               "node_type": "item",
               "title": "redash - Compact library for writing performant functional JavaScript",
-              "description": null,
+              "description": "dvdzkwsk/redash",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2796,7 +2796,7 @@
             {
               "node_type": "item",
               "title": "conjs - a featured fork of mori, with core.async included",
-              "description": null,
+              "description": "jcouyang/conjs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2817,7 +2817,7 @@
             {
               "node_type": "item",
               "title": "asyncp - Port of the async library to use Promises",
-              "description": null,
+              "description": "jgornick/asyncp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2838,7 +2838,7 @@
             {
               "node_type": "item",
               "title": "asyncbox - A collection of ES7 async/await utilities",
-              "description": null,
+              "description": "appium/asyncbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2859,7 +2859,7 @@
             {
               "node_type": "item",
               "title": "monadic - Do-notation and Monads for JavaScript",
-              "description": null,
+              "description": "spring-attic/monadic",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2880,7 +2880,7 @@
             {
               "node_type": "item",
               "title": "monad-transformers - Practical monad transformers for JS",
-              "description": null,
+              "description": "abuseofnotation/monad-transformers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2901,7 +2901,7 @@
             {
               "node_type": "item",
               "title": "pure-random - A purely functional random number generator",
-              "description": null,
+              "description": "Risto-Stevcev/pure-random",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2933,7 +2933,7 @@
             {
               "node_type": "item",
               "title": "fantasy-frees - Free monads",
-              "description": null,
+              "description": "fantasyland/fantasy-frees",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2954,7 +2954,7 @@
             {
               "node_type": "item",
               "title": "alicates - Small library for functional programming with ES2015+",
-              "description": null,
+              "description": "gonzaloruizdevilla/alicates",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2975,7 +2975,7 @@
             {
               "node_type": "item",
               "title": "List-in-JS - List in JS provides List like List of Haskell. List in JS implements Fantasy Land Specification. List is a Setoid, a Semigroup, a Monoid, a Functor, an Applicative Functor, Foldable, Traversable, a Chain and a Monad",
-              "description": null,
+              "description": "pandanoir/List-in-JS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2996,7 +2996,7 @@
             {
               "node_type": "item",
               "title": "prelude - Base functional programming utils for mostjs packages",
-              "description": null,
+              "description": "mostjs/prelude",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3017,7 +3017,7 @@
             {
               "node_type": "item",
               "title": "nux - A Push-Based Functional Reactive UI Library for the Web",
-              "description": null,
+              "description": "marknutter/nux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3038,7 +3038,7 @@
             {
               "node_type": "item",
               "title": "gentoo - Tools for ES6 generators",
-              "description": null,
+              "description": "sashee/gentoo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3059,7 +3059,7 @@
             {
               "node_type": "item",
               "title": "fantasy-states - State control structure",
-              "description": null,
+              "description": "fantasyland/fantasy-states",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3080,7 +3080,7 @@
             {
               "node_type": "item",
               "title": "lazy-either - A lazy implementation of the Fantasy Land Either type",
-              "description": null,
+              "description": "Risto-Stevcev/lazy-either",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3105,7 +3105,7 @@
             {
               "node_type": "item",
               "title": "cat.js - Category Theory for JavaScript",
-              "description": null,
+              "description": "jcouyang/cat.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3126,7 +3126,7 @@
             {
               "node_type": "item",
               "title": "future-io - A fantasy-land compliant monadic IO library for Node.js.",
-              "description": null,
+              "description": "futurize/future-io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3147,7 +3147,7 @@
             {
               "node_type": "item",
               "title": "mandolin - Painlessly enhance your JavaScript with monadic types",
-              "description": null,
+              "description": "bioball/mandolin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3168,7 +3168,7 @@
             {
               "node_type": "item",
               "title": "do-notation - Do notation for Fantasy Land monad types",
-              "description": null,
+              "description": "Risto-Stevcev/do-notation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3196,7 +3196,7 @@
             {
               "node_type": "item",
               "title": "monady - Composable monads for functional async flow",
-              "description": null,
+              "description": "GeorgeSapkin/monady",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3217,7 +3217,7 @@
             {
               "node_type": "item",
               "title": "doM.js - \"do\" monad syntax for JavaScript",
-              "description": null,
+              "description": "elclanrs/doM.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3238,7 +3238,7 @@
             {
               "node_type": "item",
               "title": "co-functional - co-functional is a MIT licenced library that provides several functions for use with the co library",
-              "description": null,
+              "description": "RaederDev/co-functional",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3259,7 +3259,7 @@
             {
               "node_type": "item",
               "title": "fantasy-do - Do notation for javascript",
-              "description": null,
+              "description": "jwoudenberg/fantasy-do",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3280,7 +3280,7 @@
             {
               "node_type": "item",
               "title": "async-ls - Higher order functions, compositions and common operations for asynchronous programming in LiveScript",
-              "description": null,
+              "description": "homam/async-ls",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3301,7 +3301,7 @@
             {
               "node_type": "item",
               "title": "iterablejs - Lazy-loading wrapper for iterable items and common functional programming operations",
-              "description": null,
+              "description": "dvlsg/iterablejs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3322,7 +3322,7 @@
             {
               "node_type": "item",
               "title": "parallel-future - Run Futures in parallel",
-              "description": null,
+              "description": "futurize/parallel-future",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3343,7 +3343,7 @@
             {
               "node_type": "item",
               "title": "fantasy-derivations - Use methods on ADTs whether or not they're defined",
-              "description": null,
+              "description": "rjmk/fantasy-derivations",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3364,7 +3364,7 @@
             {
               "node_type": "item",
               "title": "operajonal - Implementation of free monads in JavaScript, based on Haskell's operational package",
-              "description": null,
+              "description": "phipsgabler/operajonal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3385,7 +3385,7 @@
             {
               "node_type": "item",
               "title": "funkit - Functional toolkit for javascript",
-              "description": null,
+              "description": "mwardle/lambdash",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3406,7 +3406,7 @@
             {
               "node_type": "item",
               "title": "akh-cont - Akh continuation monad and monad transformer",
-              "description": null,
+              "description": "mattbierner/akh-cont",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3427,7 +3427,7 @@
             {
               "node_type": "item",
               "title": "funko - Naive minimalistic functional programming library",
-              "description": null,
+              "description": "mickvangelderen/funko",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3448,7 +3448,7 @@
             {
               "node_type": "item",
               "title": "ez-dom - Functional library to manipulate the DOM",
-              "description": null,
+              "description": "jonathandion/ez-dom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3477,7 +3477,7 @@
             {
               "node_type": "item",
               "title": "Slack - Lazy functional JS library",
-              "description": null,
+              "description": "loosechainsaw/Slack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3498,7 +3498,7 @@
             {
               "node_type": "item",
               "title": "fops - Curried, functional operators",
-              "description": null,
+              "description": "bttmly/fops",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3519,7 +3519,7 @@
             {
               "node_type": "item",
               "title": "florida - Pure functional accessor factories in js",
-              "description": null,
+              "description": "Hypercubed/florida",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3540,7 +3540,7 @@
             {
               "node_type": "item",
               "title": "tiny-tuple - Tiny Tuple library for Client or Server",
-              "description": null,
+              "description": "avoidwork/tiny-tuple",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3589,7 +3589,7 @@
             {
               "node_type": "item",
               "title": "Frege - is a Haskell for the JVM. It brings purely functional programing to the Java platform.",
-              "description": null,
+              "description": "Frege/frege",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3610,7 +3610,7 @@
             {
               "node_type": "item",
               "title": "functionaljava - Functional programming in Java",
-              "description": null,
+              "description": "functionaljava/functionaljava",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3642,7 +3642,7 @@
             {
               "node_type": "item",
               "title": "Jinq - LINQ-style queries for Java 8",
-              "description": null,
+              "description": "my2iu/Jinq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3663,7 +3663,7 @@
             {
               "node_type": "item",
               "title": "linq4j - A port of LINQ (Language-Integrated Query) to Java",
-              "description": null,
+              "description": "julianhyde/linq4j",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3684,7 +3684,7 @@
             {
               "node_type": "item",
               "title": "yeti - Functional programming language for JVM",
-              "description": null,
+              "description": "mth/yeti",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3705,7 +3705,7 @@
             {
               "node_type": "item",
               "title": "javaz - Java 8 lambda experiment",
-              "description": null,
+              "description": "mariofusco/javaz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3733,7 +3733,7 @@
             {
               "node_type": "item",
               "title": "jank - A statically typed functional programming language",
-              "description": null,
+              "description": "jank-lang/jank",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3765,7 +3765,7 @@
             {
               "node_type": "item",
               "title": "lux - The Lux Programming Language",
-              "description": null,
+              "description": "LuxLang/lux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3801,7 +3801,7 @@
             {
               "node_type": "item",
               "title": "cats - Category Theory and Algebraic abstractions for Clojure and ClojureScript",
-              "description": null,
+              "description": "funcool/cats",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3833,7 +3833,7 @@
             "open_issues": 0,
             "owner": "clojure",
             "repo": "clojure",
-            "stars": 10964,
+            "stars": 10965,
             "topics": []
           },
           "title": "Clojure/ClojureScript",
@@ -3844,7 +3844,7 @@
             {
               "node_type": "item",
               "title": "re-frame - A Reagent Framework For Writing SPAs, in Clojurescript",
-              "description": null,
+              "description": "day8/re-frame",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3857,7 +3857,7 @@
                 "open_issues": 23,
                 "owner": "day8",
                 "repo": "re-frame",
-                "stars": 5541,
+                "stars": 5540,
                 "topics": [
                   "clojurescript",
                   "re-frame",
@@ -3893,7 +3893,7 @@
             {
               "node_type": "item",
               "title": "scalaz - An extension to the core Scala library for functional programming",
-              "description": null,
+              "description": "scalaz/scalaz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3902,7 +3902,7 @@
                 "id": 474633,
                 "language": "Scala",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T23:30:57Z",
+                "last_commit": "2026-10-03T02:14:14Z",
                 "open_issues": 154,
                 "owner": "scalaz",
                 "repo": "scalaz",
@@ -3920,7 +3920,7 @@
             {
               "node_type": "item",
               "title": "macroid - A modular functional UI language for Android",
-              "description": null,
+              "description": "xebia-functional/macroid",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3950,7 +3950,7 @@
             {
               "node_type": "item",
               "title": "Structures - Functional type classes for Scala",
-              "description": null,
+              "description": "mpilquist/Structures",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3971,7 +3971,7 @@
             {
               "node_type": "item",
               "title": "rillit - Boilerplate-free Functional Lenses for Scala 2.10",
-              "description": null,
+              "description": "akisaarinen/rillit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3992,7 +3992,7 @@
             {
               "node_type": "item",
               "title": "cats - Lightweight, modular, and extensible library for functional programming",
-              "description": null,
+              "description": "non/cats",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4024,7 +4024,7 @@
             "open_issues": 14,
             "owner": "scala",
             "repo": "scala",
-            "stars": 14565,
+            "stars": 14563,
             "topics": [
               "functional-programming",
               "jvm-languages",
@@ -4043,7 +4043,7 @@
             {
               "node_type": "item",
               "title": "funKTionale - Functional constructs for Kotlin",
-              "description": null,
+              "description": "MarioAriasC/funKTionale",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4056,7 +4056,7 @@
                 "open_issues": 11,
                 "owner": "MarioAriasC",
                 "repo": "funKTionale",
-                "stars": 914,
+                "stars": 913,
                 "topics": [
                   "functional-programming",
                   "kotlin"
@@ -4067,7 +4067,7 @@
             {
               "node_type": "item",
               "title": "Forge - Functional style JSON parsing written in Kotlin",
-              "description": null,
+              "description": "kittinunf/Forge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4094,7 +4094,7 @@
             {
               "node_type": "item",
               "title": "funktional - Kotlin monads",
-              "description": null,
+              "description": "mplatvoet/funktional",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4122,11 +4122,11 @@
             "id": 3432266,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-10-02T14:43:36Z",
-            "open_issues": 455,
+            "last_commit": "2026-10-03T03:16:11Z",
+            "open_issues": 450,
             "owner": "JetBrains",
             "repo": "kotlin",
-            "stars": 53462,
+            "stars": 53467,
             "topics": [
               "compiler",
               "gradle-plugin",
@@ -4147,7 +4147,7 @@
             {
               "node_type": "item",
               "title": "FSharpPlus - A complete and extensible base library for F#.",
-              "description": null,
+              "description": "fsprojects/FSharpPlus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4176,7 +4176,7 @@
             {
               "node_type": "item",
               "title": "FSharpx.Extras - Functional programming and other utilities",
-              "description": null,
+              "description": "fsprojects/FSharpx.Extras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4199,7 +4199,7 @@
             {
               "node_type": "item",
               "title": "Streams - A lightweight F#/C# library for efficient functional-style pipelines on streams of data",
-              "description": null,
+              "description": "nessos/Streams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4220,7 +4220,7 @@
             {
               "node_type": "item",
               "title": "freya - Functional-first web stack, including an HTTP finite state machine, built on top of OWIN",
-              "description": null,
+              "description": "xyncro/freya",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4241,7 +4241,7 @@
             {
               "node_type": "item",
               "title": "chiron - Functional JSON library for F#",
-              "description": null,
+              "description": "xyncro/chiron",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4262,7 +4262,7 @@
             {
               "node_type": "item",
               "title": "Juniper - FRP (Functional Reactive Programming) for the Arduino and other microcontrollers",
-              "description": null,
+              "description": "calebh/Juniper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4287,7 +4287,7 @@
             {
               "node_type": "item",
               "title": "hekate - Purely Functional Graphs for F#",
-              "description": null,
+              "description": "xyncro/hekate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4308,7 +4308,7 @@
             {
               "node_type": "item",
               "title": "Fable - F# to JavaScript Compiler",
-              "description": null,
+              "description": "fsprojects-archive/zzarchive-Fable",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4329,7 +4329,7 @@
             {
               "node_type": "item",
               "title": "Lw - is a general-purpose statically-typed functional language with advanced features.",
-              "description": null,
+              "description": "alvisespano/Lw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4350,7 +4350,7 @@
             {
               "node_type": "item",
               "title": "micron - A minimalistic pure functional programming language",
-              "description": null,
+              "description": "jonathanvdc/micron",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4371,7 +4371,7 @@
             {
               "node_type": "item",
               "title": "ReactFSharp - Proof of concept demo implementing a React like declarative UI API for F# on top of RX",
-              "description": null,
+              "description": "bordoley/ReactFSharp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4414,7 +4414,7 @@
             {
               "node_type": "item",
               "title": "language-ext - C# functional language extensions and 'Erlang like' concurrency system",
-              "description": null,
+              "description": "louthy/language-ext",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4456,7 +4456,7 @@
             {
               "node_type": "item",
               "title": "csharp-probability-monad - A probabilistic programming framework for C#",
-              "description": null,
+              "description": "joashc/csharp-probability-monad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4477,7 +4477,7 @@
             {
               "node_type": "item",
               "title": "Ramda.NET - Practical functional C# port from Ramda.js",
-              "description": null,
+              "description": "sagifogel/Ramda.NET",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4503,7 +4503,7 @@
             {
               "node_type": "item",
               "title": "monadsharp - A collection of monads for C# that provide some functional programming flavor",
-              "description": null,
+              "description": "kallanreed/monadsharp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4524,7 +4524,7 @@
             {
               "node_type": "item",
               "title": "FuncSharp - Functional programming in C#",
-              "description": null,
+              "description": "siroky/FuncSharp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4552,11 +4552,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:55:47Z",
-            "open_issues": 6703,
+            "last_commit": "2026-10-03T03:19:27Z",
+            "open_issues": 6700,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20701,
+            "stars": 20700,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -4573,7 +4573,7 @@
             {
               "node_type": "item",
               "title": "Argo - Functional JSON parsing library for Swift",
-              "description": null,
+              "description": "thoughtbot/Argo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4594,7 +4594,7 @@
             {
               "node_type": "item",
               "title": "Swiftz - Functional programming in Swift",
-              "description": null,
+              "description": "typelift/Swiftz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4618,7 +4618,7 @@
             {
               "node_type": "item",
               "title": "Interstellar - Simple and lightweight Functional Reactive Coding in Swift for the rest of us",
-              "description": null,
+              "description": "JensRavens/Interstellar",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4639,7 +4639,7 @@
             {
               "node_type": "item",
               "title": "Prelude - Swift µframework of simple functional programming tools",
-              "description": null,
+              "description": "robrix/Prelude",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4660,7 +4660,7 @@
             {
               "node_type": "item",
               "title": "SwiftSequence - A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools, Haskell's standard library, and other things",
-              "description": null,
+              "description": "oisdk/SwiftSequence",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4681,7 +4681,7 @@
             {
               "node_type": "item",
               "title": "SINQ - LINQ for Swift - Swift Integrated Query",
-              "description": null,
+              "description": "slazyk/SINQ",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4702,7 +4702,7 @@
             {
               "node_type": "item",
               "title": "Swiftx - Functional data types and functions for any project",
-              "description": null,
+              "description": "typelift/Swiftx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4723,7 +4723,7 @@
             {
               "node_type": "item",
               "title": "Concurrent - Functional Concurrency Primitives",
-              "description": null,
+              "description": "typelift/Concurrent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4749,7 +4749,7 @@
             {
               "node_type": "item",
               "title": "Funky - Functional programming tools and experiments in Swift",
-              "description": null,
+              "description": "brynbellomy/Funky",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4770,7 +4770,7 @@
             {
               "node_type": "item",
               "title": "LlamaKit - Collection of must-have functional Swift tools",
-              "description": null,
+              "description": "LlamaKit/LlamaKit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4798,7 +4798,7 @@
             {
               "node_type": "item",
               "title": "toolz - A functional standard library for Python",
-              "description": null,
+              "description": "pytoolz/toolz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4808,7 +4808,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T17:06:26Z",
-                "open_issues": 136,
+                "open_issues": 138,
                 "owner": "pytoolz",
                 "repo": "toolz",
                 "stars": 5157,
@@ -4819,7 +4819,7 @@
             {
               "node_type": "item",
               "title": "funcy - A fancy and practical functional tools",
-              "description": null,
+              "description": "Suor/funcy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4844,7 +4844,7 @@
             {
               "node_type": "item",
               "title": "fn.py - Functional programming in Python: implementation of missing features to enjoy FP",
-              "description": null,
+              "description": "kachayev/fn.py",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4865,7 +4865,7 @@
             {
               "node_type": "item",
               "title": "f - Functional stuff for Python",
-              "description": null,
+              "description": "igrishaev/f",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4892,7 +4892,7 @@
             {
               "node_type": "item",
               "title": "pyMonet - High abstract library for functional programming. Contains algebraic data structures known from Haskell or Scala",
-              "description": null,
+              "description": "przemyslawjanpietrzak/pyMonet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4924,7 +4924,7 @@
             {
               "node_type": "item",
               "title": "functional-php - Primitives for functional programming in PHP",
-              "description": null,
+              "description": "lstrojny/functional-php",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4937,7 +4937,7 @@
                 "open_issues": 16,
                 "owner": "lstrojny",
                 "repo": "functional-php",
-                "stars": 1984,
+                "stars": 1983,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
@@ -4945,7 +4945,7 @@
             {
               "node_type": "item",
               "title": "Pinq - PHP Integrated Query, a real LINQ library for PHP",
-              "description": null,
+              "description": "TimeToogo/Pinq",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4966,7 +4966,7 @@
             {
               "node_type": "item",
               "title": "YaLinqo - Yet Another LINQ to Objects for PHP",
-              "description": null,
+              "description": "Athari/YaLinqo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5002,7 +5002,7 @@
             {
               "node_type": "item",
               "title": "Non-standard PHP library (NSPL) - Compact functional programming oriented code and more",
-              "description": null,
+              "description": "ihor/NSPL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5030,7 +5030,7 @@
             {
               "node_type": "item",
               "title": "pramda - Practical Functional Programming in PHP",
-              "description": null,
+              "description": "kapolos/pramda",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5051,7 +5051,7 @@
             {
               "node_type": "item",
               "title": "ginq - LINQ to Object inspired DSL for PHP",
-              "description": null,
+              "description": "akanehara/ginq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5072,7 +5072,7 @@
             {
               "node_type": "item",
               "title": "prelude - Functional library for PHP",
-              "description": null,
+              "description": "sergiors/prelude",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5104,11 +5104,11 @@
             "id": 1903522,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T14:24:30Z",
-            "open_issues": 2102,
+            "last_commit": "2026-10-03T01:31:34Z",
+            "open_issues": 2101,
             "owner": "php",
             "repo": "php-src",
-            "stars": 40427,
+            "stars": 40430,
             "topics": []
           },
           "title": "PHP",
@@ -5119,7 +5119,7 @@
             {
               "node_type": "item",
               "title": "elmesque - An attempt at porting Elm's incredibly useful, purely functional std graphics modules",
-              "description": null,
+              "description": "mitchmindtree/elmesque",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5147,11 +5147,11 @@
             "id": 724712,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:08:44Z",
-            "open_issues": 12617,
+            "last_commit": "2026-10-03T03:15:42Z",
+            "open_issues": 12615,
             "owner": "rust-lang",
             "repo": "rust",
-            "stars": 119400,
+            "stars": 119418,
             "topics": [
               "compiler",
               "language",
@@ -5166,7 +5166,7 @@
             {
               "node_type": "item",
               "title": "Lazy.jl - Functional programming for Julia",
-              "description": null,
+              "description": "MikeInnes/Lazy.jl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5187,7 +5187,7 @@
             {
               "node_type": "item",
               "title": "FunctionalCollections.jl - Functional and persistent data structures for Julia",
-              "description": null,
+              "description": "JuliaCollections/FunctionalCollections.jl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5215,11 +5215,11 @@
             "id": 1644196,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:15:39Z",
-            "open_issues": 4664,
+            "last_commit": "2026-10-03T02:21:50Z",
+            "open_issues": 4668,
             "owner": "JuliaLang",
             "repo": "julia",
-            "stars": 49173,
+            "stars": 49174,
             "topics": [
               "hacktoberfest",
               "hpc",
@@ -5241,7 +5241,7 @@
             {
               "node_type": "item",
               "title": "go-linq - .NET LINQ-like query methods for Go",
-              "description": null,
+              "description": "ahmetb/go-linq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5273,11 +5273,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T14:41:03Z",
+            "last_commit": "2026-10-02T21:55:53Z",
             "open_issues": 10283,
             "owner": "golang",
             "repo": "go",
-            "stars": 139122,
+            "stars": 139132,
             "topics": [
               "go",
               "golang",
@@ -5293,7 +5293,7 @@
             {
               "node_type": "item",
               "title": "futhark - A data-parallel functional programming language",
-              "description": null,
+              "description": "diku-dk/futhark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5306,7 +5306,7 @@
                 "open_issues": 77,
                 "owner": "diku-dk",
                 "repo": "futhark",
-                "stars": 2807,
+                "stars": 2806,
                 "topics": [
                   "boom",
                   "compiler",
@@ -5325,7 +5325,7 @@
             {
               "node_type": "item",
               "title": "ghcvm - A Haskell to JVM compiler that supports GHC Haskell",
-              "description": null,
+              "description": "typelead/eta",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5338,7 +5338,7 @@
                 "open_issues": 242,
                 "owner": "typelead",
                 "repo": "eta",
-                "stars": 2636,
+                "stars": 2637,
                 "topics": [
                   "eta",
                   "functional-programming",
@@ -5351,7 +5351,7 @@
             {
               "node_type": "item",
               "title": "reflex - Practical Functional Reactive Programming",
-              "description": null,
+              "description": "reflex-frp/reflex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5392,10 +5392,10 @@
             "language": "Elixir",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T16:59:20Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "elixir-lang",
             "repo": "elixir",
-            "stars": 26671,
+            "stars": 26673,
             "topics": []
           },
           "title": "Elixir",
@@ -5406,7 +5406,7 @@
             {
               "node_type": "item",
               "title": "lfe - Lisp Flavoured Erlang (LFE)",
-              "description": null,
+              "description": "lfe/lfe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5434,7 +5434,7 @@
             {
               "node_type": "item",
               "title": "bucklescript - A backend for the OCaml compiler which emits JavaScript",
-              "description": null,
+              "description": "rescript-lang/rescript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5443,8 +5443,8 @@
                 "id": 49159983,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T14:03:26Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-02T22:33:36Z",
+                "open_issues": 173,
                 "owner": "rescript-lang",
                 "repo": "rescript",
                 "stars": 7458,
@@ -5467,7 +5467,7 @@
             {
               "node_type": "item",
               "title": "hackett - (Very) WIP implementation of a Haskell 98-like Lisp in Racket",
-              "description": null,
+              "description": "lexi-lambda/hackett",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5514,7 +5514,7 @@
             "open_issues": 293,
             "owner": "koka-lang",
             "repo": "koka",
-            "stars": 4085,
+            "stars": 4086,
             "topics": [
               "algebraic-effects",
               "effect-handlers",
@@ -5537,8 +5537,8 @@
             "id": 40411471,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T12:52:39Z",
-            "open_issues": 1056,
+            "last_commit": "2026-10-02T19:48:12Z",
+            "open_issues": 1057,
             "owner": "agda",
             "repo": "agda",
             "stars": 2933,
@@ -5583,7 +5583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:43:47.844Z",
+    "last_updated": "2026-10-03T04:45:56.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yet another resource for collecting articles, videos etc. regarding functional programming",

@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "h4cc",
             "repo": "awesome-elixir",
-            "stars": 13164,
+            "stars": 13165,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -40,7 +40,7 @@
             "open_issues": 14,
             "owner": "lauris",
             "repo": "awesome-scala",
-            "stars": 9271,
+            "stars": 9270,
             "topics": [
               "awesome",
               "awesome-list",
@@ -97,7 +97,7 @@
             "open_issues": 17,
             "owner": "krispo",
             "repo": "awesome-haskell",
-            "stars": 3276,
+            "stars": 3275,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -114,8 +114,8 @@
             "id": 21657624,
             "language": "Clojure",
             "license": null,
-            "last_commit": "2026-09-15T17:34:04Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-27T09:13:01Z",
+            "open_issues": 0,
             "owner": "razum2um",
             "repo": "awesome-clojure",
             "stars": 2854,
@@ -359,7 +359,7 @@
             "open_issues": 6,
             "owner": "MostlyAdequate",
             "repo": "mostly-adequate-guide-ru",
-            "stars": 1226,
+            "stars": 1225,
             "topics": [
               "functional-programming",
               "javascript",
@@ -391,7 +391,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184847,
+            "stars": 184842,
             "topics": [
               "async",
               "book",
@@ -454,7 +454,7 @@
             "open_issues": 13,
             "owner": "bitemyapp",
             "repo": "learnhaskell",
-            "stars": 8029,
+            "stars": 8031,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -475,7 +475,7 @@
             "open_issues": 1,
             "owner": "stoeffel",
             "repo": "awesome-fp-js",
-            "stars": 6034,
+            "stars": 6033,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -493,10 +493,10 @@
             "language": "Scala",
             "license": "MIT",
             "last_commit": "2024-12-11T18:19:58Z",
-            "open_issues": 130,
+            "open_issues": 129,
             "owner": "fpinscala",
             "repo": "fpinscala",
-            "stars": 5883,
+            "stars": 5884,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -545,7 +545,7 @@
             "open_issues": 17,
             "owner": "krispo",
             "repo": "awesome-haskell",
-            "stars": 3276,
+            "stars": 3275,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:00.938Z"
@@ -587,7 +587,7 @@
             "open_issues": 10,
             "owner": "sharkdp",
             "repo": "cube-composer",
-            "stars": 2055,
+            "stars": 2056,
             "topics": [
               "browser-game",
               "functional-programming",
@@ -1213,7 +1213,7 @@
                 "open_issues": 49,
                 "owner": "caolan",
                 "repo": "async",
-                "stars": 28120,
+                "stars": 28121,
                 "topics": [
                   "async",
                   "callbacks",
@@ -1238,7 +1238,7 @@
                 "open_issues": 37,
                 "owner": "fantasyland",
                 "repo": "fantasy-land",
-                "stars": 10246,
+                "stars": 10245,
                 "topics": [
                   "fantasy-land",
                   "functional",
@@ -1264,7 +1264,7 @@
                 "open_issues": 0,
                 "owner": "este",
                 "repo": "este",
-                "stars": 5319,
+                "stars": 5320,
                 "topics": [
                   "graphql",
                   "nextjs",
@@ -1464,7 +1464,7 @@
                 "open_issues": 4,
                 "owner": "gigobyte",
                 "repo": "purify",
-                "stars": 1604,
+                "stars": 1603,
                 "topics": [
                   "algebraic-data-types",
                   "codec",
@@ -1498,7 +1498,7 @@
                 "open_issues": 19,
                 "owner": "cognitect-labs",
                 "repo": "transducers-js",
-                "stars": 1598,
+                "stars": 1597,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
@@ -2192,7 +2192,7 @@
                 "open_issues": 2,
                 "owner": "natefaubion",
                 "repo": "adt.js",
-                "stars": 220,
+                "stars": 219,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
@@ -2370,7 +2370,7 @@
                 "open_issues": 1,
                 "owner": "pelotom",
                 "repo": "immutagen",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "generator",
                   "immutable"
@@ -3569,7 +3569,7 @@
             "open_issues": 174,
             "owner": "gkz",
             "repo": "LiveScript",
-            "stars": 2375,
+            "stars": 2373,
             "topics": []
           },
           "title": "Livescript",
@@ -3593,7 +3593,7 @@
                 "open_issues": 44,
                 "owner": "Frege",
                 "repo": "frege",
-                "stars": 3714,
+                "stars": 3712,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
@@ -3733,8 +3733,8 @@
                 "id": 21428070,
                 "language": "C++",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-25T23:32:32Z",
-                "open_issues": 87,
+                "last_commit": "2026-11-26T20:58:04Z",
+                "open_issues": 89,
                 "owner": "jank-lang",
                 "repo": "jank",
                 "stars": 3411,
@@ -3824,7 +3824,7 @@
             "open_issues": 0,
             "owner": "clojure",
             "repo": "clojure",
-            "stars": 10998,
+            "stars": 10995,
             "topics": []
           },
           "title": "Clojure/ClojureScript",
@@ -3873,7 +3873,7 @@
             "open_issues": 9,
             "owner": "clojure",
             "repo": "clojurescript",
-            "stars": 9391,
+            "stars": 9390,
             "topics": []
           },
           "title": "ClojureScript",
@@ -4011,11 +4011,11 @@
             "id": 2888818,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T12:19:12Z",
-            "open_issues": 32,
+            "last_commit": "2026-11-27T15:27:38Z",
+            "open_issues": 34,
             "owner": "scala",
             "repo": "scala",
-            "stars": 14546,
+            "stars": 14543,
             "topics": [
               "functional-programming",
               "jvm-languages",
@@ -4113,11 +4113,11 @@
             "id": 3432266,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-11-26T18:22:23Z",
-            "open_issues": 527,
+            "last_commit": "2026-11-27T18:09:57Z",
+            "open_issues": 531,
             "owner": "JetBrains",
             "repo": "kotlin",
-            "stars": 53705,
+            "stars": 53684,
             "topics": [
               "compiler",
               "gradle-plugin",
@@ -4418,7 +4418,7 @@
                 "open_issues": 19,
                 "owner": "louthy",
                 "repo": "language-ext",
-                "stars": 7085,
+                "stars": 7086,
                 "topics": [
                   "ad-hoc-polymorphism",
                   "applicative",
@@ -4543,11 +4543,11 @@
             "id": 29078997,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-26T08:44:00Z",
-            "open_issues": 6823,
+            "last_commit": "2026-11-27T12:51:19Z",
+            "open_issues": 6828,
             "owner": "dotnet",
             "repo": "roslyn",
-            "stars": 20798,
+            "stars": 20794,
             "topics": [
               "csharp",
               "hacktoberfest",
@@ -5095,11 +5095,11 @@
             "id": 1903522,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-26T16:31:51Z",
-            "open_issues": 2432,
+            "last_commit": "2026-11-27T17:51:31Z",
+            "open_issues": 2453,
             "owner": "php",
             "repo": "php-src",
-            "stars": 41874,
+            "stars": 41876,
             "topics": []
           },
           "title": "PHP",
@@ -5138,11 +5138,11 @@
             "id": 724712,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T17:55:01Z",
-            "open_issues": 12635,
+            "last_commit": "2026-11-27T18:08:56Z",
+            "open_issues": 12622,
             "owner": "rust-lang",
             "repo": "rust",
-            "stars": 122518,
+            "stars": 122511,
             "topics": [
               "compiler",
               "language",
@@ -5206,11 +5206,11 @@
             "id": 1644196,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-11-26T18:13:56Z",
-            "open_issues": 4375,
+            "last_commit": "2026-11-27T14:56:04Z",
+            "open_issues": 4381,
             "owner": "JuliaLang",
             "repo": "julia",
-            "stars": 49308,
+            "stars": 49311,
             "topics": [
               "hacktoberfest",
               "hpc",
@@ -5264,11 +5264,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-26T18:21:16Z",
-            "open_issues": 9945,
+            "last_commit": "2026-11-27T18:10:14Z",
+            "open_issues": 9965,
             "owner": "golang",
             "repo": "go",
-            "stars": 140153,
+            "stars": 139830,
             "topics": [
               "go",
               "golang",
@@ -5297,7 +5297,7 @@
                 "open_issues": 68,
                 "owner": "diku-dk",
                 "repo": "futhark",
-                "stars": 2820,
+                "stars": 2821,
                 "topics": [
                   "boom",
                   "compiler",
@@ -5329,7 +5329,7 @@
                 "open_issues": 242,
                 "owner": "typelead",
                 "repo": "eta",
-                "stars": 2640,
+                "stars": 2637,
                 "topics": [
                   "eta",
                   "functional-programming",
@@ -5382,11 +5382,11 @@
             "id": 1234714,
             "language": "Elixir",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T17:09:32Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-27T13:37:02Z",
+            "open_issues": 21,
             "owner": "elixir-lang",
             "repo": "elixir",
-            "stars": 26752,
+            "stars": 26767,
             "topics": []
           },
           "title": "Elixir",
@@ -5410,7 +5410,7 @@
                 "open_issues": 30,
                 "owner": "lfe",
                 "repo": "lfe",
-                "stars": 2460,
+                "stars": 2461,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:00.938Z"
@@ -5434,8 +5434,8 @@
                 "id": 49159983,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-26T16:40:00Z",
-                "open_issues": 210,
+                "last_commit": "2026-11-27T09:37:17Z",
+                "open_issues": 209,
                 "owner": "rescript-lang",
                 "repo": "rescript",
                 "stars": 7488,
@@ -5471,7 +5471,7 @@
                 "open_issues": 36,
                 "owner": "lexi-lambda",
                 "repo": "hackett",
-                "stars": 1204,
+                "stars": 1203,
                 "topics": [
                   "racket"
                 ]
@@ -5501,8 +5501,8 @@
             "id": 75982258,
             "language": "Koka",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T00:07:36Z",
-            "open_issues": 310,
+            "last_commit": "2026-11-27T16:22:05Z",
+            "open_issues": 311,
             "owner": "koka-lang",
             "repo": "koka",
             "stars": 4135,
@@ -5528,11 +5528,11 @@
             "id": 40411471,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T09:52:30Z",
-            "open_issues": 1048,
+            "last_commit": "2026-11-27T11:22:28Z",
+            "open_issues": 1047,
             "owner": "agda",
             "repo": "agda",
-            "stars": 2980,
+            "stars": 2981,
             "topics": [
               "agda",
               "dependent-types",
@@ -5574,7 +5574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:24:58.935Z",
+    "last_updated": "2026-11-27T18:10:24.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "Yet another resource for collecting articles, videos etc. regarding functional programming",
